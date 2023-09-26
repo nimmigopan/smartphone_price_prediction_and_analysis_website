@@ -1,0 +1,697 @@
+brand_name,model,rating,has_dual_sim,has_5G,has_NFC,has_IR_Blaster,processor_brand,no_of_cores,processor_speed,ram,rom,fast_charging_available,battery_capacity,screen_size,resolution,refresh_rate,no_of_rear_cameras,no_of_front_cameras,primary_rear_camera,primary_front_camera,memory_extended_upto,operating_system,price
+xiaomi,Xiaomi Redmi 12 5G,75,1,1,0,1,snapdragon,8,2.2,4,128,1,5000,6.79,Ultra HD,90,2,1,50,8,1024,Android,11999
+xiaomi,Xiaomi Redmi 12 5G (6 GB RAM + 128 GB),77,1,1,0,1,snapdragon,8,2.2,6,128,1,5000,6.79,Ultra HD,90,2,1,50,8,1024,Android,13499
+xiaomi,Xiaomi Redmi 12 5G (8GB RAM + 256GB),80,1,1,0,1,snapdragon,8,2.2,8,256,1,5000,6.79,Ultra HD,90,2,1,50,8,1024,Android,15499
+oneplus,OnePlus Nord CE 3 Lite 5G,85,1,1,0,0,snapdragon,8,2.2,8,128,1,5000,6.72,Ultra HD,120,3,1,108,16,1024,Android,19999
+samsung,Samsung Galaxy F34 5G,83,1,1,1,0,exynos,8,2.4,6,128,1,6000,6.5,Ultra HD,120,3,1,50,13,1024,Android,18999
+oneplus,OnePlus Nord CE 3 5G,84,1,1,1,1,snapdragon,8,2.7,8,128,1,5000,6.7,Ultra HD,120,3,1,50,16,1024,Android,26999
+vivo,Vivo T2x 5G (6GB RAM + 128GB),78,1,1,0,0,mediatek,8,2.2,6,128,1,5000,6.58,Ultra HD,60,2,1,50,8,1024,Android,13999
+realme,Realme C53,75,1,0,0,0,unisoc,8,1.82,4,128,1,5000,6.74,Ultra HD,90,2,1,108,8,2048,Android,9999
+motorola,Motorola Edge 40 5G,87,1,1,1,0,mediatek,8,2.6,8,256,1,4400,6.55,Ultra HD,144,2,1,50,32,0,Android,29999
+oppo,OPPO Reno 10,88,1,1,1,1,mediatek,8,2.6,8,256,1,5000,6.7,Ultra HD,120,3,1,64,32,128,Android,32999
+realme,Realme 11 Pro,85,1,1,1,0,mediatek,8,2.6,8,128,1,5000,6.7,Ultra HD,120,2,1,100,16,0,Android,23599
+samsung,Samsung Galaxy S21 FE 5G,87,1,1,1,0,exynos,8,2.9,8,128,1,4500,6.4,Ultra HD,120,3,1,12,32,0,Android,39999
+xiaomi,Xiaomi Redmi 12 4G,75,1,0,0,1,mediatek,8,2.0,4,128,1,5000,6.79,Ultra HD,90,3,1,50,8,1024,Android,9999
+oneplus,OnePlus Nord 3 5G,85,1,1,1,1,mediatek,8,3.05,8,128,1,5000,6.74,Ultra HD,120,3,1,50,16,0,Android,32674
+realme,Realme 11 Pro Plus,89,1,1,1,0,mediatek,8,2.6,8,256,1,5000,6.7,Ultra HD,120,3,1,200,32,0,Android,27599
+oneplus,OnePlus Nord CE 3 Lite 5G (8GB RAM + 256GB),86,1,1,0,0,snapdragon,8,2.2,8,256,1,5000,6.72,Ultra HD,120,3,1,108,16,1024,Android,21999
+samsung,Samsung Galaxy M34 5G,82,1,1,1,0,exynos,8,2.4,6,128,1,6000,6.5,Ultra HD,120,3,1,50,13,1024,Android,18999
+realme,Realme Narzo 60 5G,82,1,1,0,0,mediatek,8,2.2,8,128,1,5000,6.43,Ultra HD,90,2,1,64,16,1024,Android,17999
+oneplus,OnePlus 11R 5G,85,1,1,1,1,snapdragon,8,3.2,8,128,1,5000,6.74,Ultra HD,120,3,1,50,16,0,Android,38684
+vivo,Vivo V27,85,1,1,0,0,mediatek,8,2.8,8,128,1,4600,6.78,Ultra HD,120,3,1,50,50,0,Android,32799
+vivo,Vivo T2x 5G,75,1,1,0,0,mediatek,8,2.2,4,128,1,5000,6.58,Ultra HD,60,2,1,50,8,1024,Android,12999
+infinix,Infinix Note 30 5G (8GB RAM + 256GB),87,1,1,1,0,mediatek,8,2.4,8,256,1,5000,6.78,Ultra HD,120,3,1,108,16,2048,Android,16999
+motorola,Motorola Moto G62 5G,81,1,1,0,0,snapdragon,8,2.2,6,128,1,5000,6.55,Ultra HD,120,3,1,50,16,1024,Android,14999
+xiaomi,Xiaomi Redmi Note 12 Pro 5G,79,1,1,0,1,mediatek,8,2.6,6,128,1,5000,6.67,Ultra HD,120,3,1,50,16,0,Android,21993
+motorola,Motorola Moto G14,69,1,0,1,0,unisoc,8,2.0,4,128,1,5000,6.5,Full HD,60,2,1,50,8,1024,Android,9999
+samsung,Samsung Galaxy S20 FE 5G,88,1,1,1,0,snapdragon,8,2.84,8,128,1,4500,6.5,Ultra HD,120,3,1,12,32,128,Android,26683
+samsung,Samsung Galaxy F54,89,1,1,1,0,exynos,8,2.4,8,256,1,6000,6.7,Ultra HD,120,3,1,108,32,1024,Android,29999
+realme,Realme C53 (6GB RAM + 64GB),76,1,0,0,0,unisoc,8,1.82,6,64,1,5000,6.74,Ultra HD,90,2,1,108,8,2048,Android,10999
+samsung,Samsung Galaxy S23 Ultra 5G,88,1,1,1,0,snapdragon,8,3.36,12,256,1,5000,6.8,Ultra HD,120,4,1,200,12,0,Android,106500
+samsung,Samsung Galaxy F14 5G (6GB RAM + 128GB),71,1,1,0,0,exynos,8,2.0,6,128,1,6000,6.6,Full HD,60,2,1,50,13,1024,Android,13990
+xiaomi,Xiaomi Redmi Note 12 5G,77,1,1,0,1,snapdragon,8,2.0,4,128,1,5000,6.67,Ultra HD,120,3,1,48,13,1024,Android,16999
+oneplus,OnePlus Nord CE 3 (12GB RAM + 256GB),85,1,1,1,1,snapdragon,8,2.7,12,256,1,5000,6.7,Ultra HD,120,3,1,50,16,1024,Android,28999
+oppo,OPPO Reno 10 Pro,87,1,1,1,1,snapdragon,8,2.4,12,256,1,4600,6.7,Ultra HD,120,3,1,50,32,0,Android,39999
+oneplus,OnePlus Nord CE 2 Lite 5G,81,1,1,0,0,snapdragon,8,2.2,6,128,1,5000,6.59,Ultra HD,120,3,1,64,16,1024,Android,17699
+realme,Realme C55 (8GB RAM + 128GB),79,1,0,0,0,mediatek,8,2.0,8,128,1,5000,6.72,Ultra HD,90,2,1,64,8,1024,Android,13699
+apple,Apple iPhone 13,79,1,1,1,0,bionic,6,3.22,4,128,1,3240,6.1,Ultra HD,60,2,1,12,12,0,iOS,61999
+motorola,Motorola Moto G73,84,1,1,1,0,mediatek,8,2.2,8,128,1,5000,6.5,Ultra HD,120,2,1,50,16,1024,Android,16999
+iqoo,iQOO Z7 5G,82,1,1,0,0,mediatek,8,2.5,6,128,1,4500,6.38,Ultra HD,90,2,1,64,16,1024,Android,19989
+samsung,Samsung Galaxy A34 5G,84,1,1,1,0,mediatek,8,2.6,6,128,1,5000,6.6,Ultra HD,120,3,1,48,13,1024,Android,28999
+oneplus,OnePlus 11 5G,89,1,1,1,0,snapdragon,8,3.2,8,128,1,5000,6.7,Ultra HD,120,3,1,50,16,0,Android,54799
+poco,Poco X5,81,1,1,0,1,snapdragon,8,2.2,6,128,1,5000,6.67,Ultra HD,120,3,1,48,13,1024,Android,15999
+poco,Poco X5 Pro,81,1,1,0,1,snapdragon,8,2.4,6,128,1,5000,6.67,Ultra HD,120,3,1,108,16,0,Android,20999
+motorola,Motorola Moto G32 (8GB RAM + 128GB),81,1,0,0,0,snapdragon,8,2.4,8,128,1,5000,6.55,Ultra HD,90,3,1,50,16,1024,Android,11999
+apple,Apple iPhone 14,81,1,1,1,0,bionic,6,3.22,6,128,1,3279,6.1,Ultra HD,60,2,1,12,12,0,iOS,68999
+iqoo,iQOO Neo 7 Pro,83,1,1,0,1,snapdragon,8,3.2,8,128,1,5000,6.78,Ultra HD,120,3,1,50,16,0,Android,34999
+vivo,Vivo T2x 5G (8GB RAM + 128GB),80,1,1,0,0,mediatek,8,2.2,8,128,1,5000,6.58,Ultra HD,60,2,1,50,8,1024,Android,15999
+realme,Realme 11 Pro Plus (12GB RAM + 256GB),89,1,1,1,0,mediatek,8,2.6,12,256,1,5000,6.7,Ultra HD,120,3,1,200,32,0,Android,29599
+xiaomi,Xiaomi Redmi 12C,70,1,0,0,0,mediatek,8,2.0,4,64,0,5000,6.71,Quad HD,60,2,1,50,5,1024,Android,8499
+vivo,Vivo T2 5G,79,1,1,0,0,snapdragon,8,2.2,6,128,1,4500,6.38,Ultra HD,90,2,1,64,16,1024,Android,18999
+apple,Apple iPhone 14 Pro Max,85,1,1,1,0,bionic,6,3.46,6,128,1,4323,6.7,Ultra HD,120,3,1,48,12,0,iOS,127999
+realme,Realme Narzo N53,70,1,0,0,0,unisoc,8,1.8,4,64,1,5000,6.74,Quad HD,90,2,1,50,8,2048,Android,8999
+samsung,Samsung Galaxy M34 5G (8GB RAM + 128GB),84,1,1,1,0,exynos,8,2.4,8,128,1,6000,6.5,Ultra HD,120,3,1,50,13,1024,Android,20999
+samsung,Samsung Galaxy F04,68,1,0,0,0,mediatek,8,2.3,4,64,1,5000,6.5,Quad HD,60,2,1,13,5,1024,Android,6999
+infinix,Infinix Hot 30 5G (8GB RAM + 128GB),82,1,1,1,0,mediatek,8,2.2,8,128,1,6000,6.78,Ultra HD,120,2,1,50,8,1024,Android,13499
+samsung,Samsung Galaxy F34 5G (8GB RAM + 128GB),85,1,1,1,0,exynos,8,2.4,8,128,1,6000,6.5,Ultra HD,120,3,1,50,13,1024,Android,20999
+infinix,Infinix Note 30 5G,81,1,1,1,0,mediatek,8,2.4,4,128,1,5000,6.78,Ultra HD,120,3,1,108,16,2048,Android,14999
+vivo,Vivo V27 Pro,84,1,1,0,0,mediatek,8,3.1,8,128,1,4600,6.78,Ultra HD,120,3,1,50,50,0,Android,37999
+realme,Realme GT 2 5G,84,1,1,1,0,snapdragon,8,2.84,8,128,1,5000,6.62,Ultra HD,120,3,1,50,16,0,Android,24999
+xiaomi,Xiaomi Redmi Note 12 (8GB RAM + 256GB),83,1,1,0,1,snapdragon,8,2.0,8,256,1,5000,6.67,Ultra HD,120,3,1,48,13,1024,Android,20999
+samsung,Samsung Galaxy A54 5G,88,1,1,1,0,exynos,8,2.4,8,128,1,5000,6.4,Ultra HD,120,3,1,50,32,1024,Android,38999
+samsung,Samsung Galaxy M14 (6GB RAM + 128GB),79,1,1,0,0,exynos,8,2.4,6,128,1,6000,6.6,Ultra HD,90,3,1,50,13,1024,Android,15349
+poco,Poco F5,84,1,1,0,1,snapdragon,8,2.91,8,256,1,5000,6.67,Ultra HD,120,3,1,64,16,0,Android,26999
+apple,Apple iPhone 14 Plus,82,1,1,1,0,bionic,6,3.22,6,128,1,4325,6.7,Ultra HD,60,2,1,12,12,0,iOS,79999
+oppo,Oppo A78 4G,81,1,0,1,0,snapdragon,8,2.4,8,128,1,5000,6.43,Ultra HD,90,2,1,50,8,1024,Android,17499
+lava,Lava Agni 2 5G,82,1,1,0,0,mediatek,8,2.6,8,256,1,4700,6.78,Ultra HD,120,4,1,50,16,0,Android,21999
+samsung,Samsung Galaxy A14 5G,75,1,1,0,0,exynos,8,2.4,4,64,1,5000,6.6,Ultra HD,90,3,1,50,13,1024,Android,15998
+oppo,Oppo A78,79,1,1,1,0,mediatek,8,2.2,8,128,1,5000,6.56,Quad HD,90,2,1,50,8,128,Android,17960
+vivo,Vivo V25 Pro 5G,84,1,1,0,0,mediatek,8,3.0,8,128,1,4830,6.56,Ultra HD,120,3,1,64,32,0,Android,27489
+samsung,Samsung Galaxy S22 Ultra 5G,86,1,1,1,0,snapdragon,8,3.0,12,256,1,5000,6.8,Ultra HD,120,4,1,108,40,0,Android,84999
+samsung,Samsung Galaxy M14,77,1,1,0,0,exynos,8,2.4,4,128,1,6000,6.6,Ultra HD,90,3,1,50,13,1024,Android,14277
+realme,Realme 10 Pro,82,1,1,0,0,snapdragon,8,2.2,6,128,1,5000,6.72,Ultra HD,120,2,1,108,16,1024,Android,18999
+oneplus,OnePlus 11R (16GB RAM + 256GB),87,1,1,1,1,snapdragon,8,3.2,16,256,1,5000,6.74,Ultra HD,120,3,1,50,16,0,Android,43519
+tecno,Tecno Camon 20 Pro 5G,85,1,1,1,0,mediatek,8,3.0,8,128,1,5000,6.67,Ultra HD,120,3,1,64,32,0,Android,19998
+realme,Realme 10 Pro Plus,82,1,1,0,0,mediatek,8,2.6,6,128,1,5000,6.7,Ultra HD,120,3,1,108,16,0,Android,22999
+oneplus,OnePlus Nord 3 5G (16GB RAM + 256GB),87,1,1,1,1,mediatek,8,3.05,16,256,1,5000,6.74,Ultra HD,120,3,1,50,16,0,Android,37219
+samsung,Samsung Galaxy S23 5G,88,1,1,1,0,snapdragon,8,3.36,8,128,1,3900,6.1,Ultra HD,120,3,1,50,12,0,Android,74998
+google,Google Pixel 6A,71,1,1,1,0,tensor,8,2.8,6,128,1,4410,6.14,Ultra HD,60,2,1,12,8,0,Android,26999
+infinix,Infinix Zero 5G 2023,84,1,1,0,0,mediatek,8,2.5,8,128,1,5000,6.78,Ultra HD,120,3,1,50,16,256,Android,16599
+realme,Realme GT Neo 3 5G,83,1,1,1,0,mediatek,8,2.85,8,128,1,5000,6.7,Ultra HD,120,3,1,50,16,0,Android,23970
+xiaomi,Xiaomi Redmi 12 4G (6GB RAM + 128GB),77,1,0,0,1,mediatek,8,2.0,6,128,1,5000,6.79,Ultra HD,90,3,1,50,8,1024,Android,11499
+oppo,Oppo Reno 10 Pro Plus,89,1,1,1,1,snapdragon,8,3.2,12,256,1,4700,6.74,Ultra HD,120,3,1,64,32,0,Android,54999
+poco,Poco C51,66,1,0,0,0,mediatek,8,2.2,4,64,1,5000,6.52,Quad HD,60,2,1,8,5,1024,Android,6913
+apple,Apple iPhone 11,73,1,0,1,0,bionic,6,2.65,4,64,0,3110,6.1,Quad HD,60,2,1,12,12,0,iOS,41990
+iqoo,iQOO Z6 Lite (6GB RAM + 128GB),79,1,1,0,0,snapdragon,8,2.0,6,128,1,5000,6.58,Ultra HD,120,2,1,50,8,1024,Android,14499
+realme,Realme Narzo N53 (6GB RAM + 128GB),74,1,0,0,0,unisoc,8,1.8,6,128,1,5000,6.74,Quad HD,90,2,1,50,8,2048,Android,10999
+poco,Poco C55,71,1,0,0,0,mediatek,8,2.0,4,64,1,5000,6.71,Quad HD,60,2,1,50,5,1024,Android,9499
+motorola,Motorola Edge 30 Ultra (12GB RAM + 256GB),86,1,1,1,0,snapdragon,8,3.2,12,256,1,4610,6.67,Ultra HD,144,3,1,200,60,0,Android,49999
+samsung,Samsung Galaxy F23 5G (6GB RAM + 128GB),80,1,1,1,0,snapdragon,8,2.2,6,128,1,5000,6.6,Ultra HD,120,3,1,50,8,1024,Android,16999
+xiaomi,Xiaomi Redmi 11 Prime,74,1,0,0,1,mediatek,8,2.2,4,64,1,5000,6.58,Ultra HD,90,3,1,50,8,512,Android,8999
+infinix,Infinix Hot 30i,76,1,0,0,0,mediatek,8,2.3,8,128,1,5000,6.6,Quad HD,90,2,1,50,8,1024,Android,9039
+realme,Realme Narzo 60 Pro (12GB RAM + 1TB),85,1,1,0,0,mediatek,8,2.6,12,1000,1,5000,6.7,Ultra HD,120,2,1,100,16,0,Android,29999
+xiaomi,Xiaomi Redmi Note 12 Pro Plus,86,1,1,0,1,mediatek,8,2.6,8,256,1,4980,6.67,Ultra HD,120,3,1,200,16,0,Android,28978
+oneplus,OnePlus 10R 5G,84,1,1,1,0,mediatek,8,2.85,8,128,1,5000,6.7,Ultra HD,120,3,1,50,16,0,Android,29454
+oppo,Oppo Reno 8T,86,1,1,1,0,snapdragon,8,2.2,8,128,1,4800,6.7,Ultra HD,120,3,1,108,32,1024,Android,29999
+motorola,Motorola Moto G42,78,1,0,1,0,snapdragon,8,2.4,4,64,1,5000,6.47,Ultra HD,60,3,1,50,16,1024,Android,12499
+samsung,Samsung Galaxy F14 5G,68,1,1,0,0,exynos,8,2.0,4,128,1,6000,6.6,Full HD,60,2,1,50,13,1024,Android,12990
+poco,Poco X5 Pro (8GB RAM + 256GB),84,1,1,0,1,snapdragon,8,2.4,8,256,1,5000,6.67,Ultra HD,120,3,1,108,16,0,Android,24999
+oppo,OPPO F23,84,1,1,0,0,snapdragon,8,2.2,8,256,1,5000,6.72,Ultra HD,120,3,1,64,32,1024,Android,23799
+vivo,Vivo Y56,83,1,1,0,0,mediatek,8,2.2,8,128,1,5000,6.58,Ultra HD,60,2,1,50,16,128,Android,19240
+realme,Realme 11 Pro (8GB RAM + 256GB),85,1,1,1,0,mediatek,8,2.6,8,256,1,5000,6.7,Ultra HD,120,2,1,100,16,0,Android,24529
+iqoo,iQOO Z7s 5G,80,1,1,0,0,snapdragon,8,2.2,6,128,1,4500,6.38,Ultra HD,90,2,1,64,16,1024,Android,18989
+realme,Realme 10,74,1,0,0,0,mediatek,8,2.2,4,64,1,5000,6.4,Ultra HD,90,2,1,50,16,1024,Android,11499
+realme,Realme 9 5G,75,1,1,0,0,mediatek,8,2.4,4,64,1,5000,6.5,Ultra HD,90,3,1,48,16,1024,Android,13999
+vivo,Vivo Y22,72,1,0,0,0,mediatek,8,2.0,4,64,1,5000,6.55,Quad HD,60,2,1,50,8,1024,Android,14499
+xiaomi,Xiaomi Redmi K50i 5G,82,1,1,0,1,mediatek,8,2.85,6,128,1,5080,6.6,Ultra HD,144,3,1,64,16,0,Android,20999
+realme,Realme Narzo 60 5G (8GB RAM +256GB),82,1,1,0,0,mediatek,8,2.2,8,256,1,5000,6.43,Ultra HD,90,2,1,64,16,1024,Android,19999
+motorola,Motorola Moto G62 (8GB RAM + 128GB),83,1,1,0,0,snapdragon,8,2.2,8,128,1,5000,6.55,Ultra HD,120,3,1,50,16,1024,Android,15999
+iqoo,iQOO Neo 7 5G,82,1,1,0,1,mediatek,8,3.1,8,128,1,5000,6.78,Ultra HD,120,3,1,64,16,0,Android,27999
+xiaomi,Xiaomi 12 Pro 5G,89,1,1,1,1,snapdragon,8,3.0,8,256,1,4600,6.73,Ultra HD,120,3,1,50,32,0,Android,41999
+vivo,Vivo V27 Pro (12GB RAM + 256GB),86,1,1,0,0,mediatek,8,3.1,12,256,1,4600,6.78,Ultra HD,120,3,1,50,50,0,Android,42999
+nothing,Nothing Phone 2,88,1,1,1,0,snapdragon,8,3.2,8,128,1,4700,6.7,Ultra HD,120,2,1,50,32,0,Android,44999
+samsung,Samsung Galaxy A73 5G,84,1,1,1,0,snapdragon,8,2.4,8,128,1,5000,6.7,Ultra HD,120,4,1,108,32,1024,Android,37999
+infinix,Infinix Hot 30 5G,77,1,1,1,0,mediatek,8,2.2,4,128,1,6000,6.78,Ultra HD,120,2,1,50,8,1024,Android,12499
+poco,Poco M5,74,1,0,0,1,mediatek,8,2.2,4,64,1,5000,6.58,Ultra HD,90,3,1,50,8,512,Android,8499
+tecno,Tecno Spark 10 Pro,80,1,0,1,0,mediatek,8,2.0,8,128,1,5000,6.8,Ultra HD,90,2,1,50,32,128,Android,12990
+google,Google Pixel 7A,86,1,1,1,0,tensor,8,2.85,8,128,1,4385,6.1,Ultra HD,90,2,1,64,13,0,Android,43999
+poco,Poco C55 (6GB RAM + 128GB),75,1,0,0,0,mediatek,8,2.0,6,128,1,5000,6.71,Quad HD,60,2,1,50,5,1024,Android,8999
+xiaomi,Xiaomi Redmi Note 12 4G,79,1,0,0,1,snapdragon,8,2.8,6,64,1,5000,6.67,Ultra HD,120,3,1,50,13,1024,Android,13700
+samsung,Samsung Galaxy A14 5G (6GB RAM + 128GB),79,1,1,0,0,exynos,8,2.4,6,128,1,5000,6.6,Ultra HD,90,3,1,50,13,1024,Android,17999
+motorola,Motorola Moto G13,75,1,0,1,0,mediatek,8,2.0,4,128,1,5000,6.5,Quad HD,90,3,1,50,8,512,Android,9999
+apple,Apple iPhone 14 Pro,84,1,1,1,0,bionic,6,3.46,6,128,1,3200,6.1,Ultra HD,120,3,1,48,12,0,iOS,117999
+oneplus,OnePlus 11 (16GB RAM + 256GB),86,1,1,1,0,snapdragon,8,3.2,16,256,1,5000,6.7,Ultra HD,120,3,1,50,16,0,Android,61370
+samsung,Samsung Galaxy A53 5G,87,1,1,1,0,exynos,8,2.4,6,128,1,5000,6.5,Ultra HD,120,4,1,64,32,1024,Android,26999
+oneplus,OnePlus 10 Pro 5G,89,1,1,1,0,snapdragon,8,3.0,8,128,1,5000,6.7,Ultra HD,120,3,1,50,32,0,Android,54999
+realme,Realme Narzo N55,73,1,0,0,0,mediatek,8,2.0,4,64,1,5000,6.72,Ultra HD,90,2,1,64,8,1024,Android,10999
+xiaomi,Xiaomi Redmi A2,61,1,0,0,0,mediatek,8,2.2,2,32,1,5000,6.52,Quad HD,60,2,1,8,5,512,Android,6270
+xiaomi,Xiaomi Redmi Note 12 Pro (8GB RAM + 256GB),82,1,1,0,1,mediatek,8,2.6,8,256,1,5000,6.67,Ultra HD,120,3,1,50,16,0,Android,24945
+apple,Apple iPhone 12,74,1,1,1,0,bionic,6,3.1,4,64,1,2815,6.1,Ultra HD,60,2,1,12,12,0,iOS,53999
+vivo,Vivo Y100,83,1,1,0,0,mediatek,8,2.4,8,128,1,4500,6.38,Ultra HD,90,3,1,64,16,128,Android,23999
+oneplus,OnePlus Nord 2T 5G,84,1,1,1,0,mediatek,8,3.0,8,128,1,4500,6.43,Ultra HD,90,3,1,50,32,0,Android,28900
+samsung,Samsung Galaxy F23 5G,78,1,1,1,0,snapdragon,8,2.2,4,128,1,5000,6.6,Ultra HD,120,3,1,50,8,1024,Android,14499
+xiaomi,Xiaomi Redmi A2 (4GB RAM + 64GB),66,1,0,0,0,mediatek,8,2.2,4,64,1,5000,6.52,Quad HD,60,2,1,8,5,512,Android,7299
+poco,Poco X5 (8GB RAM + 256GB),84,1,1,0,1,snapdragon,8,2.2,8,256,1,5000,6.67,Ultra HD,120,3,1,48,13,1024,Android,17999
+xiaomi,Xiaomi Redmi Note 12 (6GB RAM + 128GB),80,1,1,0,1,snapdragon,8,2.0,6,128,1,5000,6.67,Ultra HD,120,3,1,48,13,1024,Android,18999
+realme,Realme C55,73,1,0,0,0,mediatek,8,2.0,4,64,1,5000,6.72,Ultra HD,90,2,1,64,8,1024,Android,10999
+realme,Realme Narzo 60 Pro 5G,82,1,1,0,0,mediatek,8,2.6,8,128,1,5000,6.7,Ultra HD,120,2,1,100,16,0,Android,23999
+oppo,OPPO Reno8 5G,83,1,1,1,0,mediatek,8,3.0,8,128,1,4500,6.43,Ultra HD,90,3,1,50,32,0,Android,26999
+samsung,Samsung Galaxy M04,66,1,0,0,0,mediatek,8,2.3,4,64,1,5000,6.5,Quad HD,60,2,1,13,5,1024,Android,8338
+motorola,Motorola Edge 30 Ultra,84,1,1,1,0,snapdragon,8,3.2,8,128,1,4610,6.67,Ultra HD,144,3,1,200,60,0,Android,39899
+oppo,OPPO A17,72,1,0,0,0,mediatek,8,2.3,4,64,1,5000,6.56,Quad HD,60,2,1,50,5,1024,Android,11900
+samsung,Samsung Galaxy A23 5G,79,1,1,0,0,snapdragon,8,2.2,6,128,1,5000,6.6,Ultra HD,120,4,1,50,8,1024,Android,21999
+samsung,Samsung Galaxy F13,74,1,0,1,0,exynos,8,2.0,4,64,1,6000,6.6,Full HD,60,3,1,50,8,1024,Android,9499
+google,Google Pixel 7 Pro 5G,89,1,1,1,0,tensor,8,2.85,12,128,1,5000,6.7,Ultra HD,120,3,1,50,10,0,Android,67999
+realme,Realme 10 Pro (8GB RAM + 128GB),84,1,1,0,0,snapdragon,8,2.2,8,128,1,5000,6.72,Ultra HD,120,2,1,108,16,1024,Android,18970
+vivo,Vivo Y16 (4GB RAM + 64GB),68,1,0,0,0,mediatek,8,2.3,4,64,1,5000,6.51,Quad HD,60,2,1,13,5,128,Android,11999
+realme,Realme 9i 5G,75,1,1,0,0,mediatek,8,2.4,4,64,1,5000,6.6,Ultra HD,90,3,1,50,8,1024,Android,14299
+motorola,Motorola Edge 30 5G,83,1,1,1,0,snapdragon,8,2.5,6,128,1,4020,6.5,Ultra HD,144,3,1,50,32,0,Android,24999
+itel,itel S23,75,1,0,0,0,unisoc,8,1.6,8,128,1,5000,6.6,HD,90,2,1,50,8,512,Android,8499
+vivo,Vivo T2 5G (8GB RAM + 128GB),82,1,1,0,0,snapdragon,8,2.2,8,128,1,4500,6.38,Ultra HD,90,2,1,64,16,1024,Android,20999
+samsung,Samsung Galaxy Z Flip 5,88,0,1,1,0,snapdragon,8,3.2,8,256,1,3700,6.7,Ultra HD,120,2,1,12,10,0,Android,99999
+vivo,Vivo Y27 4G,76,1,0,1,0,mediatek,8,2.0,6,128,1,5000,6.64,Ultra HD,60,2,1,50,8,128,Android,14999
+iqoo,iQOO Neo 7 Pro (12GB RAM + 256GB),84,1,1,0,1,snapdragon,8,3.2,12,256,1,5000,6.78,Ultra HD,120,3,1,50,16,0,Android,37999
+samsung,Samsung Galaxy S21 FE (Snapdragon),88,1,1,1,0,snapdragon,8,2.84,8,256,1,4500,6.4,Ultra HD,120,3,1,12,32,0,Android,49999
+motorola,Motorola Moto G32,75,1,0,0,0,snapdragon,8,2.4,4,64,1,5000,6.55,Ultra HD,90,3,1,50,16,1024,Android,10999
+motorola,Motorola Moto G60,84,1,0,1,0,snapdragon,8,2.3,6,128,1,6000,6.78,Ultra HD,120,3,1,108,32,1024,Android,14999
+vivo,Vivo V27 (12GB RAM + 256GB),86,1,1,0,0,mediatek,8,2.8,12,256,1,4600,6.78,Ultra HD,120,3,1,50,50,0,Android,36999
+motorola,Motorola Moto G72 4G,82,1,0,0,0,mediatek,8,2.2,6,128,1,5000,6.55,Ultra HD,120,3,1,108,16,128,Android,14999
+vivo,Vivo V25 5G,83,1,1,0,0,mediatek,8,2.0,8,128,1,4500,6.44,Ultra HD,90,3,1,64,50,1024,Android,24990
+motorola,Motorola Moto E13 (4GB RAM + 64GB),67,1,0,0,0,unisoc,8,2.0,4,64,1,5000,6.5,Quad HD,60,1,1,13,5,1024,Android,7299
+xiaomi,Xiaomi 13 Pro 5G,88,1,1,1,1,snapdragon,8,3.2,12,256,1,4820,6.73,Ultra HD,120,3,1,50,32,0,Android,74990
+samsung,Samsung Galaxy S21 FE 5G (8GB RAM + 256GB),88,1,1,1,0,exynos,8,2.9,8,256,1,4500,6.4,Ultra HD,120,3,1,12,32,0,Android,49999
+xiaomi,Xiaomi Redmi 12C (6GB RAM + 128GB),74,1,0,0,0,mediatek,8,2.0,6,128,0,5000,6.71,Quad HD,60,2,1,50,5,1024,Android,10299
+motorola,Motorola Edge 30 5G (8GB RAM + 128GB),85,1,1,1,0,snapdragon,8,2.5,8,128,1,4020,6.5,Ultra HD,144,3,1,50,32,0,Android,22999
+samsung,Samsung Galaxy A53 5G (8GB RAM + 128GB),89,1,1,1,0,exynos,8,2.4,8,128,1,5000,6.5,Ultra HD,120,4,1,64,32,1024,Android,27499
+motorola,Motorola Edge 30 Fusion 5G,88,1,1,1,0,snapdragon,8,2.9,8,128,1,4400,6.55,Ultra HD,144,3,1,50,32,0,Android,34999
+xiaomi,Xiaomi Redmi Note 11,76,1,0,0,1,snapdragon,8,2.4,4,64,1,5000,6.43,Ultra HD,90,4,1,50,13,512,Android,12180
+tecno,Tecno Camon 20,83,1,0,0,0,mediatek,8,2.0,8,256,1,5000,6.67,Ultra HD,60,3,1,64,32,1024,Android,13827
+vivo,Vivo X90 5G,89,1,1,1,1,mediatek,8,3.05,8,256,1,4810,6.78,Ultra HD,120,3,1,50,32,0,Android,59999
+samsung,Samsung Galaxy S22 Plus 5G,87,1,1,1,0,snapdragon,8,3.0,8,128,1,4500,6.6,Ultra HD,120,3,1,50,10,0,Android,69999
+realme,Realme C55 (6GB RAM + 64GB),75,1,0,0,0,mediatek,8,2.0,6,64,1,5000,6.72,Ultra HD,90,2,1,64,8,1024,Android,11455
+samsung,Samsung Galaxy A14 5G (8GB RAM + 128GB),82,1,1,0,0,exynos,8,2.4,8,128,1,5000,6.6,Ultra HD,90,3,1,50,13,1024,Android,19999
+samsung,Samsung Galaxy M33 5G (8GB RAM + 128GB),84,1,1,1,0,exynos,8,2.4,8,128,1,6000,6.6,Ultra HD,120,4,1,50,8,1024,Android,17379
+realme,Realme 11 Pro (12GB RAM + 256GB),86,1,1,1,0,mediatek,8,2.6,12,256,1,5000,6.7,Ultra HD,120,2,1,100,16,0,Android,26578
+iqoo,iQOO Z7 5G (8GB RAM + 128GB),84,1,1,0,0,mediatek,8,2.5,8,128,1,4500,6.38,Ultra HD,90,2,1,64,16,1024,Android,23990
+realme,Realme 10 (8GB RAM + 128GB),79,1,0,0,0,mediatek,8,2.2,8,128,1,5000,6.4,Ultra HD,90,2,1,50,16,1024,Android,14999
+realme,Realme 10 Pro Plus (8GB RAM + 128GB),84,1,1,0,0,mediatek,8,2.6,8,128,1,5000,6.7,Ultra HD,120,3,1,108,16,0,Android,23999
+samsung,Samsung Galaxy A34 5G (8GB RAM + 256GB),87,1,1,1,0,mediatek,8,2.6,8,256,1,5000,6.6,Ultra HD,120,3,1,48,13,1024,Android,32999
+infinix,Infinix Zero 5G 2023 Turbo,85,1,1,0,0,mediatek,8,2.6,8,256,1,5000,6.78,Ultra HD,120,3,1,50,16,256,Android,16999
+xiaomi,Xiaomi Redmi 11 Prime 5G,74,1,1,0,1,mediatek,8,2.2,4,64,1,5000,6.58,Ultra HD,90,2,1,50,5,512,Android,12999
+oppo,OPPO A57 4G (4GB RAM + 64 GB),69,1,0,0,0,mediatek,8,2.3,4,64,1,5000,6.56,Quad HD,60,2,1,13,8,128,Android,12990
+vivo,Vivo T1 44W (6GB RAM + 128GB),79,1,0,0,0,snapdragon,8,2.4,6,128,1,5000,6.44,Ultra HD,60,3,1,50,16,1024,Android,15999
+motorola,Motorola Moto E32,71,1,0,0,0,mediatek,8,2.3,4,64,1,5000,6.5,Quad HD,90,2,1,50,8,1024,Android,7999
+samsung,Samsung Galaxy S22 5G,86,1,1,1,0,snapdragon,8,3.0,8,128,1,3700,6.1,Ultra HD,120,3,1,50,10,0,Android,53000
+tecno,Tecno Camon 20 Pro 5G (8GB RAM + 256GB),86,1,1,1,0,mediatek,8,3.0,8,256,1,5000,6.67,Ultra HD,120,3,1,64,32,0,Android,21837
+vivo,Vivo Y02t 4G,64,1,0,0,0,mediatek,8,2.3,4,64,1,5000,6.51,Quad HD,60,1,1,8,5,1024,Android,9999
+itel,Itel P40 Plus,63,1,0,0,0,unisoc,8,2.0,4,128,1,7000,6.8,Quad HD,90,2,1,13,8,1024,Android,8499
+poco,POCO M2 Pro,76,1,0,0,1,snapdragon,8,2.3,4,64,1,5000,6.67,Ultra HD,60,4,1,48,16,512,Android,9999
+xiaomi,Xiaomi Redmi Note 12 Pro (12GB RAM + 256GB),83,1,1,0,1,mediatek,8,2.6,12,256,1,5000,6.67,Ultra HD,120,3,1,50,16,0,Android,28999
+samsung,Samsung Galaxy S23 Ultra (12GB RAM + 512GB),88,1,1,1,0,snapdragon,8,3.36,12,512,1,5000,6.8,Ultra HD,120,4,1,200,12,0,Android,120500
+xiaomi,Xiaomi Redmi K50i (8GB RAM + 256GB),85,1,1,0,1,mediatek,8,2.85,8,256,1,5080,6.6,Ultra HD,144,3,1,64,16,0,Android,23999
+infinix,Infinix Smart 7,64,1,0,0,0,unisoc,8,1.6,4,64,0,6000,6.6,Quad HD,60,2,1,13,5,2048,Android,6999
+samsung,Samsung Galaxy M53 5G (8GB RAM + 128GB),87,1,1,0,0,mediatek,8,2.4,8,128,1,5000,6.7,Ultra HD,120,4,1,108,32,1024,Android,25999
+xiaomi,Xiaomi Mi 11X,80,1,1,0,1,snapdragon,8,3.2,6,128,1,4520,6.67,Ultra HD,120,3,1,48,20,0,Android,21490
+samsung,Samsung Galaxy Z Flip 3,83,1,1,1,0,snapdragon,8,2.84,8,128,1,3300,6.7,Ultra HD,120,2,1,12,10,0,Android,44999
+tecno,Tecno Camon 20 Premier,89,1,1,1,0,mediatek,8,3.0,8,512,1,5000,6.67,Ultra HD,120,3,1,108,32,0,Android,29999
+xiaomi,Xiaomi Redmi Note 12 Pro (8GB RAM + 128GB),82,1,1,0,1,mediatek,8,2.6,8,128,1,5000,6.67,Ultra HD,120,3,1,50,16,0,Android,24999
+vivo,Vivo Y35,80,1,0,0,0,snapdragon,8,2.4,8,128,1,5000,6.58,Ultra HD,90,3,1,50,16,1024,Android,16999
+iqoo,iQOO 9 Pro 5G,87,1,1,1,0,snapdragon,8,3.0,8,256,1,4700,6.78,Ultra HD,120,3,1,50,16,0,Android,39990
+apple,Apple iPhone 11 (128GB),75,1,0,1,0,bionic,6,2.65,4,128,0,3110,6.1,Quad HD,60,2,1,12,12,0,iOS,42999
+poco,Poco F5 (12GB RAM + 256GB),85,1,1,0,1,snapdragon,8,2.91,12,256,1,5000,6.67,Ultra HD,120,3,1,64,16,0,Android,29999
+vivo,Vivo Y36 4G,80,1,0,0,0,snapdragon,8,2.4,8,128,1,5000,6.64,Ultra HD,90,2,1,50,16,1024,Android,16999
+samsung,Samsung Galaxy A54 5G (8GB RAM + 256GB),89,1,1,1,0,exynos,8,2.4,8,256,1,5000,6.4,Ultra HD,120,3,1,50,32,1024,Android,40999
+ikall,iKall S1 Plus,66,1,0,0,0,unisoc,4,1.6,6,128,0,6000,6.8,Quad HD,60,3,1,13,8,128,Android,9999
+xiaomi,Xiaomi Redmi Note 12 Pro Plus (12GB RAM + 256GB),87,1,1,0,1,mediatek,8,2.6,12,256,1,4980,6.67,Ultra HD,120,3,1,200,16,0,Android,32490
+motorola,Motorola Moto E13,64,1,0,0,0,unisoc,8,2.0,2,64,1,5000,6.5,Quad HD,60,1,1,13,5,1024,Android,6499
+infinix,Infinix Hot 20,75,1,1,0,0,mediatek,8,2.4,4,64,1,5000,6.6,Ultra HD,120,2,1,50,8,1024,Android,11499
+motorola,Motorola Moto G82 (8GB RAM + 128GB),86,1,1,1,0,snapdragon,8,2.2,8,128,1,5000,6.6,Ultra HD,120,3,1,50,16,1024,Android,21449
+poco,Poco M4 5G,75,1,1,0,1,mediatek,8,2.2,4,64,1,5000,6.58,Ultra HD,90,2,1,50,8,512,Android,12999
+samsung,Samsung Galaxy M52 5G,83,1,1,1,0,snapdragon,8,2.4,6,128,1,5000,6.7,Ultra HD,120,3,1,64,32,1024,Android,28999
+tecno,Tecno Spark 10 5G (8GB RAM + 128GB),79,1,1,1,0,mediatek,8,2.2,8,128,1,5000,6.56,Quad HD,90,2,1,50,8,1024,Android,13948
+ikall,iKall Z19 Pro,60,1,0,0,0,mediatek,4,1.6,4,64,0,5000,6.5,Quad HD,60,1,1,13,8,128,Android,7799
+vivo,Vivo Y22 (6GB RAM + 128GB),75,1,0,0,0,mediatek,8,2.0,6,128,1,5000,6.55,Quad HD,60,2,1,50,8,1024,Android,15499
+realme,Realme Narzo 50 Pro 5G (8GB RAM + 128GB),83,1,1,0,0,mediatek,8,2.5,8,128,1,5000,6.4,Ultra HD,90,3,1,48,16,1024,Android,19499
+samsung,Samsung Galaxy A73 5G (8GB RAM + 256GB),86,1,1,1,0,snapdragon,8,2.4,8,256,1,5000,6.7,Ultra HD,120,4,1,108,32,1024,Android,40499
+samsung,Samsung Galaxy M13 5G,75,1,1,0,0,mediatek,8,2.2,6,128,1,5000,6.5,Quad HD,90,2,1,50,5,1024,Android,14199
+xiaomi,Xiaomi Redmi Note 11 (6GB RAM + 128GB),80,1,0,0,1,snapdragon,8,2.4,6,128,1,5000,6.43,Ultra HD,90,4,1,50,13,512,Android,13937
+samsung,Samsung Galaxy A23,79,1,0,0,0,snapdragon,8,2.4,6,128,1,5000,6.6,Ultra HD,60,4,1,50,8,1024,Android,18499
+vivo,Vivo Y100A (8GB RAM + 256GB),83,1,1,0,0,snapdragon,8,2.2,8,256,1,4500,6.38,Ultra HD,90,3,1,64,16,128,Android,25999
+samsung,Samsung Galaxy A34 5G (8GB RAM + 128GB),86,1,1,1,0,mediatek,8,2.6,8,128,1,5000,6.6,Ultra HD,120,3,1,48,13,1024,Android,30999
+xiaomi,Xiaomi Redmi 11 Prime (6GB RAM + 128GB),76,1,0,0,1,mediatek,8,2.2,6,128,1,5000,6.58,Ultra HD,90,3,1,50,8,512,Android,10499
+poco,Poco C50,61,1,0,0,0,mediatek,4,2.0,2,32,1,5000,6.52,Quad HD,60,2,1,8,5,512,Android,5499
+infinix,Infinix Note 12 Pro 5G,84,1,1,0,0,mediatek,8,2.4,8,128,1,5000,6.7,Ultra HD,60,3,1,108,16,2048,Android,18999
+realme,Realme Narzo 50 5G (4GB RAM + 64GB),75,1,1,0,0,mediatek,8,2.4,4,64,1,5000,6.6,Ultra HD,90,3,1,48,16,1024,Android,13999
+iqoo,iQOO 11 5G,87,1,1,1,0,snapdragon,8,3.2,8,256,1,5000,6.78,Ultra HD,144,3,1,50,16,0,Android,54990
+realme,Realme GT 2 (12GB RAM + 256GB),86,1,1,1,0,snapdragon,8,2.84,12,256,1,5000,6.62,Ultra HD,120,3,1,50,16,0,Android,28999
+apple,Apple iPhone 13 (256GB),79,1,1,1,0,bionic,6,3.22,4,256,1,3240,6.1,Ultra HD,60,2,1,12,12,0,iOS,68499
+iqoo,iQOO Z7s (8GB RAM + 128GB),82,1,1,0,0,snapdragon,8,2.2,8,128,1,4500,6.38,Ultra HD,90,2,1,64,16,1024,Android,19999
+nothing,Nothing Phone 2 (12GB RAM + 256GB),89,1,1,1,0,snapdragon,8,3.2,12,256,1,4700,6.7,Ultra HD,120,2,1,50,32,0,Android,49999
+infinix,Infinix Hot 30i (4GB RAM+ 64GB),71,1,0,0,0,mediatek,8,2.3,4,64,1,5000,6.6,Quad HD,90,2,1,50,8,1024,Android,7759
+lava,Lava Blaze 5G,73,1,1,0,0,mediatek,8,2.2,4,128,0,5000,6.5,HD,90,3,1,50,8,1024,Android,10999
+apple,Apple iPhone 14 Pro Max (1TB),87,1,1,1,0,bionic,6,3.46,6,1000,1,4323,6.7,Ultra HD,120,3,1,48,12,0,iOS,177999
+oppo,OPPO A17K,62,1,0,0,0,mediatek,8,2.3,3,64,0,5000,6.56,Quad HD,60,1,1,8,5,1024,Android,9327
+vivo,Vivo V25 Pro (12GB RAM + 256GB),86,1,1,0,0,mediatek,8,3.0,12,256,1,4830,6.56,Ultra HD,120,3,1,64,32,0,Android,30780
+realme,Realme C33,64,1,0,0,0,unisoc,8,1.8,3,32,0,5000,6.5,Quad HD,60,2,1,50,5,1024,Android,8999
+samsung,Samsung Galaxy M13,75,1,0,0,0,exynos,8,2.0,6,128,1,6000,6.6,Ultra HD,60,3,1,50,8,1024,Android,12899
+poco,Poco X4 Pro 5G (8GB RAM + 128GB),84,1,1,0,1,snapdragon,8,2.2,8,128,1,5000,6.67,Ultra HD,120,3,1,64,16,1024,Android,21999
+realme,Realme GT Neo2 5G (12GB RAM + 256GB),83,1,1,1,0,snapdragon,8,3.2,12,256,1,5000,6.62,Full HD,120,3,1,64,16,0,Android,35999
+xiaomi,Xiaomi Redmi 10 (6GB RAM + 128GB),75,1,0,0,0,snapdragon,8,2.4,6,128,1,6000,6.7,Quad HD,60,2,1,50,5,512,Android,10999
+itel,itel A60s,64,1,0,0,0,unisoc,8,1.3,4,64,1,5000,6.6,Quad HD,60,2,1,8,5,1024,Android,6499
+apple,Apple iPhone 14 Pro Max (256GB),86,1,1,1,0,bionic,6,3.46,6,256,1,4323,6.7,Ultra HD,120,3,1,48,12,0,iOS,143990
+tecno,Tecno Camon 19 Neo,77,1,0,1,0,mediatek,8,2.0,6,128,1,5000,6.8,Ultra HD,90,3,1,48,32,0,Android,9999
+xiaomi,Xiaomi Redmi Note 11S,80,1,0,0,1,mediatek,8,2.05,6,64,1,5000,6.43,Ultra HD,90,4,1,108,16,512,Android,12999
+xiaomi,Xiaomi Mi 11i 5G,81,1,1,0,1,mediatek,8,2.5,6,128,1,5160,6.67,Full HD,120,3,1,108,16,1024,Android,20990
+samsung,Samsung Galaxy S20 FE,86,1,0,1,0,exynos,8,2.73,8,128,1,4500,6.5,Ultra HD,120,3,1,12,32,1024,Android,26549
+nokia,Nokia C32,68,1,0,0,0,unisoc,8,1.6,4,64,0,5000,6.52,Quad HD,60,2,1,50,8,256,Android,8999
+poco,Poco M5 (6GB RAM + 128GB),77,1,0,0,1,mediatek,8,2.2,6,128,1,5000,6.58,Ultra HD,90,3,1,50,8,512,Android,10499
+infinix,Infinix Zero Ultra,88,1,1,0,0,mediatek,8,2.5,8,256,1,4500,6.8,Ultra HD,120,3,1,200,32,0,Android,29999
+realme,Realme GT Neo 3T,79,1,1,0,0,snapdragon,8,3.2,6,128,1,5000,6.62,Ultra HD,120,3,1,64,16,0,Android,34999
+samsung,Samsung Galaxy A33 5G,82,1,1,1,0,exynos,8,2.4,6,128,1,5000,6.4,Ultra HD,90,4,1,48,13,1024,Android,25499
+poco,Poco M4 Pro 5G,76,1,1,0,1,mediatek,8,2.4,4,64,1,5000,6.6,Ultra HD,90,2,1,50,16,1024,Android,14999
+realme,Realme Narzo 50 Pro 5G,81,1,1,0,0,mediatek,8,2.5,6,128,1,5000,6.4,Ultra HD,90,3,1,48,16,256,Android,18999
+apple,Apple iPhone 12 (128GB),75,1,1,1,0,bionic,6,3.1,4,128,1,2815,6.1,Ultra HD,60,2,1,12,12,0,iOS,56990
+tecno,Tecno Spark 10 5G (8GB RAM + 256GB),80,1,1,1,0,mediatek,8,2.2,8,256,1,5000,6.56,Quad HD,90,2,1,50,8,1024,Android,14999
+vivo,Vivo Y100A,82,1,1,0,0,snapdragon,8,2.2,8,128,1,4500,6.38,Ultra HD,90,3,1,64,16,128,Android,23799
+infinix,Infinix Smart 7 (4GB + 128 GB),65,1,0,0,0,unisoc,8,1.6,4,128,0,6000,6.6,Quad HD,60,2,1,13,5,2048,Android,7799
+samsung,Samsung Galaxy M04 (4GB RAM + 128GB),68,1,0,0,0,mediatek,8,2.3,4,128,1,5000,6.5,Quad HD,60,2,1,13,5,1024,Android,8099
+oppo,OPPO F21s Pro 4G,82,1,0,0,0,snapdragon,8,2.4,8,128,1,4500,6.43,Ultra HD,90,3,1,64,32,512,Android,18400
+xiaomi,Xiaomi Redmi 11 Prime 5G (6GB RAM + 128GB),77,1,1,0,1,mediatek,8,2.2,6,128,1,5000,6.58,Ultra HD,90,2,1,50,5,512,Android,14999
+realme,Realme C30s,62,1,0,0,0,unisoc,8,1.6,2,32,1,5000,6.5,Quad HD,60,1,1,8,5,1024,Android,6489
+oppo,OPPO A77s,76,1,0,0,0,snapdragon,8,2.4,8,128,1,5000,6.56,Quad HD,90,2,1,50,8,128,Android,14499
+infinix,Infinix Zero 20,87,1,0,1,0,mediatek,8,2.2,8,128,1,4500,6.7,Ultra HD,90,3,1,108,60,2048,Android,15499
+nokia,Nokia G11 Plus,70,1,0,0,0,unisoc,8,1.6,4,64,1,5000,6.52,Quad HD,90,2,1,50,8,512,Android,8999
+realme,Realme 9 Pro Plus 5G (8GB RAM + 256GB),82,1,1,0,0,mediatek,8,2.5,8,256,1,4500,6.4,Ultra HD,90,3,1,50,16,0,Android,28999
+vivo,Vivo V23 Pro 5G,85,1,1,0,0,mediatek,8,3.0,8,128,1,4300,6.56,Ultra HD,90,3,2,108,50,0,Android,31500
+realme,Realme GT 5G,85,1,1,1,0,snapdragon,8,2.84,8,128,1,4500,6.43,Ultra HD,120,3,1,64,16,0,Android,38779
+xiaomi,Xiaomi Mi 10i,84,1,1,0,1,snapdragon,8,2.2,6,128,1,4820,6.67,Ultra HD,120,4,1,108,16,512,Android,17980
+motorola,Motorola Razr 40 Ultra,89,1,1,1,0,snapdragon,8,3.2,8,256,1,3800,6.9,Ultra HD,165,2,1,13,32,0,Android,89999
+apple,Apple iPhone 14 (256GB),81,1,1,1,0,bionic,6,3.22,6,256,1,3279,6.1,Ultra HD,60,2,1,12,12,0,iOS,74999
+realme,Realme 9i 5G (6GB RAM + 128GB),78,1,1,0,0,mediatek,8,2.4,6,128,1,5000,6.6,Ultra HD,90,3,1,50,8,1024,Android,16299
+samsung,Samsung Galaxy M13 5G (4GB RAM + 64GB),71,1,1,0,0,mediatek,8,2.2,4,64,1,5000,6.5,Quad HD,90,2,1,50,5,1024,Android,12475
+tecno,Tecno Spark 10C,72,1,0,0,0,unisoc,8,2.0,8,128,1,5000,6.6,Quad HD,90,2,1,16,8,128,Android,9918
+vivo,Vivo X90 Pro 5G,88,1,1,1,1,mediatek,8,3.05,12,256,1,4870,6.78,Ultra HD,120,3,1,50,32,0,Android,84999
+poco,Poco M4 5G (6GB RAM + 128GB),79,1,1,0,1,mediatek,8,2.2,6,128,1,5000,6.58,Ultra HD,90,2,1,50,8,512,Android,14485
+realme,Realme GT Neo 3 5G (8GB RAM + 256GB),83,1,1,1,0,mediatek,8,2.85,8,256,1,5000,6.7,Ultra HD,120,3,1,50,16,0,Android,25699
+vivo,Vivo X80 Pro 5G,87,1,1,1,0,snapdragon,8,3.0,12,256,1,4700,6.78,Ultra HD,120,4,1,50,32,0,Android,59990
+poco,Poco X4 Pro 5G,80,1,1,0,1,snapdragon,8,2.2,6,64,1,5000,6.67,Ultra HD,120,3,1,64,16,1024,Android,18999
+xiaomi,Xiaomi Redmi Note 10S,78,1,0,0,1,mediatek,8,2.05,6,64,1,5000,6.43,Ultra HD,60,4,1,64,13,512,Android,13990
+ikall,iKall K333 Plus,68,1,0,0,0,mediatek,4,1.3,2,16,0,3000,2.8,FWVGA,60,1,1,2,2,128,Android,3799
+xiaomi,Xiaomi Redmi 12C (4GB RAM + 128GB),72,1,0,0,0,mediatek,8,2.0,4,128,0,5000,6.71,Quad HD,60,2,1,50,5,1024,Android,9299
+samsung,Samsung Galaxy S23 (8GB RAM + 256GB),88,1,1,1,0,snapdragon,8,3.36,8,256,1,3900,6.1,Ultra HD,120,3,1,50,12,0,Android,79999
+vivo,Vivo Y02 (2GB RAM + 32GB),62,1,0,0,0,mediatek,8,2.0,2,32,1,5000,6.51,Quad HD,60,1,1,8,5,1024,Android,7999
+tecno,Tecno Phantom X2,85,1,1,1,0,mediatek,8,3.05,8,256,1,5160,6.8,Ultra HD,120,3,1,64,32,0,Android,36999
+realme,Realme C33 (4GB RAM + 64GB),67,1,0,0,0,unisoc,8,1.8,4,64,0,5000,6.5,Quad HD,60,2,1,50,5,1024,Android,9999
+samsung,Samsung Galaxy A53 (8GB RAM + 256GB),89,1,1,1,0,exynos,8,2.4,8,256,1,5000,6.5,Ultra HD,120,4,1,64,32,1024,Android,30999
+samsung,Samsung Galaxy F13 (4GB RAM + 128GB),75,1,0,1,0,exynos,8,2.0,4,128,1,6000,6.6,Full HD,60,3,1,50,8,1024,Android,10499
+iqoo,iQOO 9T 5G,85,1,1,1,1,snapdragon,8,3.2,8,128,1,4700,6.78,Ultra HD,120,3,1,50,16,0,Android,36999
+oneplus,OnePlus 10R 5G (12GB RAM + 256GB),85,1,1,1,0,mediatek,8,2.85,12,256,1,5000,6.7,Ultra HD,120,3,1,50,16,0,Android,35499
+realme,Realme C35,70,1,0,0,0,unisoc,8,1.8,4,64,1,5000,6.6,Ultra HD,60,3,1,50,8,1024,Android,11999
+xiaomi,Xiaomi Redmi Note 11 Pro Plus 5G,83,1,1,0,1,snapdragon,8,2.2,6,128,1,5000,6.67,Ultra HD,120,3,1,108,16,1024,Android,21990
+xiaomi,Xiaomi Mi 11 Lite NE 5G,83,1,1,1,1,snapdragon,8,2.4,6,128,1,4250,6.55,Ultra HD,90,3,1,64,20,128,Android,20481
+samsung,Samsung Galaxy F62 (8GB RAM + 128GB),87,1,0,1,0,exynos,8,2.73,8,128,1,7000,6.7,Ultra HD,60,4,1,64,32,1024,Android,30999
+iqoo,iQOO 9 5G,84,1,1,0,0,snapdragon,8,2.9,8,128,1,4350,6.56,Ultra HD,120,3,1,48,16,0,Android,29990
+samsung,Samsung Galaxy S21 Ultra,86,1,1,1,0,exynos,8,2.9,12,256,1,5000,6.8,Ultra HD,120,4,1,108,40,0,Android,105999
+oneplus,OnePlus 8 Pro (12GB RAM + 256GB),86,1,1,1,0,snapdragon,8,2.84,12,256,1,4510,6.78,Ultra HD,120,4,1,48,16,0,Android,43899
+samsung,Samsung Galaxy Note 10 Plus,89,1,0,1,0,exynos,8,2.73,12,256,1,4300,6.8,Ultra HD,60,4,1,12,10,1024,Android,54690
+samsung,Samsung Galaxy Z Fold 5 (12GB RAM + 512GB),86,1,1,1,0,snapdragon,8,3.36,12,512,1,4400,7.6,Ultra HD,120,3,2,50,10,0,Android,164999
+ikall,iKall K333 4G,68,1,0,0,0,mediatek,4,1.3,2,16,0,3000,2.8,FWVGA,60,1,1,2,2,128,Android,3689
+infinix,Infinix Smart 7 HD,61,1,0,0,0,unisoc,8,1.6,2,64,1,5000,6.6,Quad HD,60,2,1,8,5,1024,Android,5999
+vivo,Vivo Y16 (4GB RAM + 128GB),69,1,0,0,0,mediatek,8,2.3,4,128,1,5000,6.51,Quad HD,60,2,1,13,5,128,Android,12650
+xiaomi,Xiaomi Redmi Note 12 4G (6GB RAM + 128GB),80,1,0,0,1,snapdragon,8,2.8,6,128,1,5000,6.67,Ultra HD,120,3,1,50,13,1024,Android,15999
+vivo,Vivo V27 Pro (8GB RAM + 256GB),85,1,1,0,0,mediatek,8,3.1,8,256,1,4600,6.78,Ultra HD,120,3,1,50,50,0,Android,39999
+apple,Apple iPhone 14 Plus (256GB),82,1,1,1,0,bionic,6,3.22,6,256,1,4325,6.7,Ultra HD,60,2,1,12,12,0,iOS,92990
+oneplus,OnePlus 10T,85,1,1,1,0,snapdragon,8,3.2,8,128,1,4800,6.7,Ultra HD,120,3,1,50,16,0,Android,45990
+vivo,Vivo T1 44W,77,1,0,0,0,snapdragon,8,2.4,4,128,1,5000,6.44,Ultra HD,60,3,1,50,16,1024,Android,14499
+xiaomi,Xiaomi 12 Pro 5G (12GB RAM + 256GB),89,1,1,1,1,snapdragon,8,3.0,12,256,1,4600,6.73,Ultra HD,120,3,1,50,32,0,Android,44999
+xiaomi,Xiaomi Redmi Note 11T 5G (6GB RAM + 128GB),81,1,1,0,1,mediatek,8,2.4,6,128,1,5000,6.6,Ultra HD,90,2,1,50,16,1024,Android,16499
+apple,Apple iPhone 13 Mini,79,1,1,1,0,bionic,6,3.22,4,128,1,2438,5.4,Ultra HD,60,2,1,12,12,0,iOS,62199
+samsung,Samsung Galaxy S21,88,1,1,1,0,exynos,8,2.9,8,128,1,4000,6.2,Ultra HD,120,3,1,64,10,0,Android,69999
+samsung,Samsung Galaxy Z Fold 5 (12GB RAM + 1TB),86,1,1,1,0,snapdragon,8,3.36,12,1000,1,4400,7.6,Ultra HD,120,3,2,50,10,0,Android,184999
+nokia,Nokia C32 (4GB RAM + 128 GB),69,1,0,0,0,unisoc,8,1.6,4,128,0,5000,6.52,Quad HD,60,2,1,50,8,256,Android,9099
+motorola,Motorola Razr 40,88,1,1,1,0,snapdragon,8,2.4,8,128,1,4200,6.9,Ultra HD,144,2,1,64,32,0,Android,59999
+xiaomi,Xiaomi Redmi A2 Plus,66,1,0,0,0,mediatek,8,2.2,4,64,1,5000,6.52,Quad HD,60,2,1,8,5,1024,Android,7999
+samsung,Samsung Galaxy A23 5G (8GB RAM + 128GB),81,1,1,0,0,snapdragon,8,2.2,8,128,1,5000,6.6,Ultra HD,120,4,1,50,8,1024,Android,23999
+vivo,Vivo Y02,62,1,0,0,0,mediatek,8,2.0,3,32,1,5000,6.51,Quad HD,60,1,1,8,5,1024,Android,8499
+nokia,Nokia C31,62,1,0,0,0,unisoc,8,1.6,3,32,1,5050,6.74,Quad HD,60,3,1,13,5,256,Android,7899
+samsung,Samsung Galaxy M13 (4GB RAM + 64GB),71,1,0,0,0,exynos,8,2.0,4,64,1,6000,6.6,Ultra HD,60,3,1,50,8,1024,Android,9499
+vivo,Vivo T1 Pro 5G (8GB RAM + 128GB),84,1,1,0,0,snapdragon,8,2.4,8,128,1,4700,6.44,Ultra HD,90,3,1,64,16,1024,Android,24999
+xiaomi,Xiaomi Redmi 10A (4GB RAM + 64GB),66,1,0,0,0,mediatek,8,2.0,4,64,0,5000,6.53,Quad HD,60,1,1,13,5,512,Android,8499
+samsung,Samsung Galaxy A13,75,1,0,0,0,exynos,8,2.0,4,64,1,5000,6.6,Ultra HD,60,4,1,50,8,1024,Android,13979
+xiaomi,Xiaomi Mi 11T Pro 5G,86,1,1,1,1,snapdragon,8,2.84,8,128,1,5000,6.67,Ultra HD,120,3,1,108,16,0,Android,31990
+apple,Apple iPhone SE 3 2022,71,1,1,1,0,bionic,6,3.22,4,64,1,2018,4.7,Full HD+,60,1,1,12,7,0,iOS,43900
+oneplus,OnePlus 9 Pro (12GB RAM + 256GB),89,1,1,1,0,snapdragon,8,2.84,12,256,1,4500,6.7,Ultra HD,120,4,1,48,16,0,Android,47990
+xiaomi,Xiaomi Redmi 9A,61,1,0,0,0,mediatek,8,2.0,2,32,0,5000,6.53,Quad HD,60,1,1,13,5,512,Android,7498
+realme,Realme Narzo 60 Pro (12GB RAM + 256GB),83,1,1,0,0,mediatek,8,2.6,12,256,1,5000,6.7,Ultra HD,120,2,1,100,16,0,Android,26999
+vivo,Vivo X90 (12GB RAM + 256GB),89,1,1,1,1,mediatek,8,3.05,12,256,1,4810,6.78,Ultra HD,120,3,1,50,32,0,Android,63999
+tecno,Tecno Spark Go 2023 (4GB RAM + 64GB),65,1,0,0,0,mediatek,4,2.0,4,64,1,5000,6.56,Quad HD,60,2,1,13,5,256,Android,7870
+itel,Itel P40,61,1,0,0,0,unisoc,8,1.6,4,64,1,6000,6.6,Quad HD,60,2,1,13,5,512,Android,7050
+iqoo,iQOO Neo 7 (12GB RAM + 256GB),84,1,1,0,1,mediatek,8,3.1,12,256,1,5000,6.78,Ultra HD,120,3,1,64,16,0,Android,31999
+oppo,OPPO F21s Pro,82,1,1,0,0,snapdragon,8,2.2,8,128,1,4500,6.43,Ultra HD,60,3,1,64,16,512,Android,22840
+nokia,Nokia X30 5G,86,1,1,1,0,snapdragon,8,2.2,8,256,1,4200,6.43,Ultra HD,90,2,1,50,16,0,Android,36999
+nothing,Nothing Phone 1 (12GB RAM + 256GB),87,1,1,1,0,snapdragon,8,2.5,12,256,1,4500,6.55,Ultra HD,120,2,1,50,16,0,Android,35999
+realme,Realme C30,62,1,0,0,0,unisoc,8,1.82,2,32,0,5000,6.5,Quad HD,60,1,1,8,5,1024,Android,5999
+iqoo,iQOO Z6 Pro 5G,78,1,1,0,0,snapdragon,8,2.4,6,128,1,4700,6.44,Ultra HD,90,3,1,64,16,0,Android,23999
+samsung,Samsung Galaxy Z Fold 4,86,1,1,1,0,snapdragon,8,3.2,12,256,1,4400,7.6,Ultra HD,120,3,2,50,10,0,Android,154999
+xiaomi,Xiaomi Mi 11X 5G (8GB RAM + 128GB),83,1,1,0,1,snapdragon,8,3.2,8,128,1,4520,6.67,Ultra HD,120,3,1,48,20,0,Android,22990
+xiaomi,Xiaomi Mi 11X Pro,85,1,1,0,1,snapdragon,8,2.84,8,128,1,4520,6.67,Ultra HD,120,3,1,108,20,0,Android,25799
+oppo,OPPO A74 5G,77,1,1,0,0,snapdragon,8,2.0,6,128,1,5000,6.5,Ultra HD,90,3,1,48,8,128,Android,17990
+oppo,OPPO F19 Pro Plus 5G,82,1,1,0,0,mediatek,8,2.4,8,128,1,4310,6.43,Ultra HD,60,4,1,48,16,256,Android,29499
+realme,Realme 8,78,1,0,0,0,mediatek,8,2.0,4,128,1,5000,6.4,Ultra HD,60,4,1,64,16,256,Android,15999
+xiaomi,Xiaomi Poco F1 (6GB RAM + 128GB),78,1,0,0,0,snapdragon,8,2.8,6,128,1,4000,6.18,Ultra HD,60,2,1,12,20,256,Android,11999
+nothing,Nothing Phone 2 (12GB RAM + 512GB),89,1,1,1,0,snapdragon,8,3.2,12,512,1,4700,6.7,Ultra HD,120,2,1,50,32,0,Android,54999
+lava,Lava Yuva 2,62,1,0,0,0,unisoc,8,2.0,3,64,1,5000,6.5,HD,90,2,1,13,5,512,Android,7999
+oneplus,OnePlus 11 5G Marble Odyssey,86,1,1,1,0,snapdragon,8,3.2,16,256,1,5000,6.7,Ultra HD,120,3,1,50,16,0,Android,64999
+vivo,Vivo Y22 (4GB RAM + 128GB),73,1,0,0,0,mediatek,8,2.0,4,128,1,5000,6.55,Quad HD,60,2,1,50,8,1024,Android,14499
+lava,Lava Blaze 2 4G,70,1,0,0,0,unisoc,8,2.0,6,128,1,5000,6.5,Quad HD,90,2,1,13,8,1024,Android,8999
+tecno,Tecno Spark 10 5G,74,1,1,1,0,mediatek,8,2.2,4,64,1,5000,6.56,Quad HD,90,2,1,50,8,1024,Android,12480
+lava,Lava Yuva 2 Pro,65,1,0,0,0,mediatek,8,2.3,4,64,1,5000,6.5,HD,60,3,1,13,5,256,Android,7999
+samsung,Samsung Galaxy A14 4G,74,1,0,0,0,exynos,8,2.0,4,64,1,5000,6.6,Ultra HD,60,3,1,50,13,1024,Android,13999
+tecno,Tecno Phantom V Fold,86,1,1,1,0,mediatek,8,3.2,12,256,1,5000,7.85,Ultra HD,120,3,2,50,32,0,Android,88888
+oppo,OPPO Find N2 Flip,88,0,1,1,0,mediatek,8,3.2,8,256,1,4300,6.8,Ultra HD,120,2,1,50,32,0,Android,89999
+vivo,Vivo V25 (12GB RAM + 256GB),85,1,1,0,0,mediatek,8,2.0,12,256,1,4500,6.44,Ultra HD,90,3,1,64,50,1024,Android,27990
+xiaomi,Xiaomi Redmi Note 11SE,80,1,0,0,1,mediatek,8,2.05,6,64,1,5000,6.43,Ultra HD,60,4,1,64,13,512,Android,13275
+tecno,Tecno Spark 9 (4GB RAM + 64GB),65,1,0,0,0,mediatek,8,2.3,4,64,0,5000,6.6,Quad HD,90,2,1,13,8,256,Android,7099
+tecno,Tecno Pova 3 (6GB RAM + 128GB),77,1,0,0,0,mediatek,8,2.0,6,128,1,7000,6.9,Ultra HD,90,3,1,50,8,256,Android,13999
+realme,Realme 9 5G SE (8GB RAM + 128GB),82,1,1,0,0,snapdragon,8,2.4,8,128,1,5000,6.6,Ultra HD,144,3,1,48,16,1024,Android,22999
+realme,Realme Narzo 50 (6GB RAM + 128GB),77,1,0,0,0,mediatek,8,2.0,6,128,1,5000,6.6,Ultra HD,120,3,1,50,16,256,Android,12499
+poco,POCO M4 Pro 4G,77,1,0,0,1,mediatek,8,2.05,6,64,1,5000,6.43,Ultra HD,90,3,1,64,16,1024,Android,12990
+oneplus,OnePlus 10 Pro 5G (12GB RAM + 256GB),86,1,1,1,0,snapdragon,8,3.0,12,256,1,5000,6.7,Ultra HD,120,3,1,50,32,0,Android,59999
+lava,Lava Agni 5G,84,1,1,0,0,mediatek,8,2.4,8,128,1,5000,6.78,Ultra HD,90,4,1,64,16,1024,Android,15990
+xiaomi,Xiaomi Mi 11 Lite NE 5G (8GB RAM + 128GB),86,1,1,1,1,snapdragon,8,2.4,8,128,1,4250,6.55,Ultra HD,90,3,1,64,20,128,Android,20490
+samsung,Samsung Galaxy M52 5G (8GB RAM + 128GB),86,1,1,1,0,snapdragon,8,2.4,8,128,1,5000,6.7,Ultra HD,120,3,1,64,32,1024,Android,25994
+apple,Apple iPhone 13 Pro (256GB),83,1,1,1,0,bionic,6,3.22,6,256,1,3095,6.1,Ultra HD,120,3,1,12,12,0,iOS,129900
+samsung,Samsung Galaxy A52s 5G,87,1,1,1,0,snapdragon,8,2.4,6,128,1,4500,6.5,Ultra HD,120,4,1,64,32,1024,Android,32499
+xiaomi,Xiaomi Redmi 10,71,1,0,0,0,snapdragon,8,2.4,4,64,1,6000,6.7,Quad HD,60,2,1,50,5,512,Android,9299
+xiaomi,Xiaomi Redmi Note 9 Pro,75,1,0,0,1,snapdragon,8,2.3,4,64,1,5020,6.67,Ultra HD,60,4,1,48,16,512,Android,13990
+vivo,Vivo Y56 5G (4GB RAM + 128GB),78,1,1,0,0,mediatek,8,2.2,4,128,1,5000,6.58,Ultra HD,60,2,1,50,16,128,Android,17999
+xiaomi,Xiaomi Redmi A2 (2GB RAM + 64GB),63,1,0,0,0,mediatek,8,2.2,2,64,1,5000,6.52,Quad HD,60,2,1,8,5,512,Android,6499
+nokia,Nokia C12,68,1,0,0,0,unisoc,8,1.6,2,64,0,3000,6.3,Quad HD,60,1,1,8,5,128,Android,6499
+motorola,Motorola Moto E22s,70,1,0,0,0,mediatek,8,2.3,4,64,1,5000,6.5,Quad HD,90,2,1,16,8,128,Android,8685
+samsung,Samsung Galaxy M32 Prime Edition (6GB RAM + 128GB),79,1,0,0,0,mediatek,8,2.0,6,128,1,6000,6.4,Ultra HD,90,4,1,64,20,1024,Android,15499
+realme,Realme C30s (4GB RAM + 64GB),62,1,0,0,0,unisoc,8,1.6,4,64,1,5000,6.5,Quad HD,60,1,1,8,5,1024,Android,7999
+infinix,Infinix Note 12 5G,78,1,1,0,0,mediatek,8,2.4,6,64,1,5000,6.7,Ultra HD,60,3,1,50,16,2048,Android,14999
+vivo,Vivo Y75 4G,82,1,0,0,0,mediatek,8,2.05,8,128,1,4050,6.44,Ultra HD,60,3,1,50,44,1024,Android,19990
+tecno,Tecno Spark 9T,72,1,0,0,0,mediatek,8,2.3,4,64,1,5000,6.6,Ultra HD,60,3,1,50,8,128,Android,7498
+samsung,Samsung Galaxy A04s,71,1,0,0,0,exynos,8,2.0,4,64,1,5000,6.5,Quad HD,90,3,1,50,5,1024,Android,12400
+poco,Poco M4 Pro 5G (6GB RAM + 128GB),81,1,1,0,1,mediatek,8,2.4,6,128,1,5000,6.6,Ultra HD,90,2,1,50,16,1024,Android,16299
+samsung,Samsung Galaxy M32,76,1,0,0,0,mediatek,8,2.0,4,64,1,6000,6.4,Ultra HD,90,4,1,64,20,1024,Android,13499
+poco,POCO M2 Pro (6GB RAM + 64GB),78,1,0,0,1,snapdragon,8,2.3,6,64,1,5000,6.67,Ultra HD,60,4,1,48,16,512,Android,13299
+xiaomi,Xiaomi Redmi Note 9 Pro Max,80,1,0,0,1,snapdragon,8,2.3,6,64,1,5020,6.67,Ultra HD,60,4,1,64,32,512,Android,15490
+ikall,iKall S1 Pro,66,1,0,0,0,unisoc,4,1.6,6,128,0,6000,6.8,Quad HD,60,3,1,13,8,128,Android,9990
+nokia,Nokia C22 (4GB RAM + 64GB),64,1,0,0,0,unisoc,8,1.6,4,64,0,5000,6.52,Quad HD,60,2,1,13,8,128,Android,7999
+motorola,Motorola Moto G13 (4GB RAM + 64GB),74,1,0,1,0,mediatek,8,2.0,4,64,1,5000,6.5,Quad HD,90,3,1,50,8,512,Android,9499
+tecno,Tecno Pop 7 Pro (3GB RAM + 64GB),63,1,0,0,0,mediatek,4,2.0,3,64,1,5000,6.56,Quad HD,60,2,1,12,5,256,Android,7295
+lava,Lava Blaze 5G (6GB RAM + 128GB),75,1,1,0,0,mediatek,8,2.2,6,128,0,5000,6.5,HD,90,3,1,50,8,1024,Android,11999
+iqoo,iQOO 11 (16GB RAM + 256GB),89,1,1,1,0,snapdragon,8,3.2,16,256,1,5000,6.78,Ultra HD,144,3,1,50,16,0,Android,59999
+vivo,Vivo Y16 (3GB RAM + 64GB),66,1,0,0,0,mediatek,8,2.3,3,64,1,5000,6.51,Quad HD,60,2,1,13,5,128,Android,10499
+infinix,Infinix Note 12i (2022),73,1,0,0,0,mediatek,8,2.0,4,64,1,5000,6.7,Ultra HD,60,3,1,50,8,512,Android,9499
+realme,Realme GT Neo 3T (8GB RAM + 128GB),81,1,1,0,0,snapdragon,8,3.2,8,128,1,5000,6.62,Ultra HD,120,3,1,64,16,0,Android,36999
+realme,Realme Narzo 50i Prime (4GB RAM + 64GB),64,1,0,0,0,unisoc,8,1.82,4,64,1,5000,6.5,Quad HD,60,1,1,8,5,1024,Android,7699
+apple,Apple iPhone 14 Pro (256GB),85,1,1,1,0,bionic,6,3.46,6,256,1,3200,6.1,Ultra HD,120,3,1,48,12,0,iOS,127999
+xiaomi,Xiaomi Redmi A1 Plus,60,1,0,0,0,mediatek,4,2.0,2,32,1,5000,6.52,Quad HD,60,2,1,8,5,512,Android,6299
+xiaomi,Xiaomi Redmi A1,61,1,0,0,0,mediatek,4,2.0,2,32,1,5000,6.52,Quad HD,60,2,1,8,5,512,Android,6434
+oppo,OPPO A77,70,1,0,0,0,mediatek,8,2.3,4,64,1,5000,6.56,Quad HD,60,2,1,50,8,128,Android,14369
+poco,Poco F4 (12GB RAM + 256GB),86,1,1,1,0,snapdragon,8,3.2,12,256,1,4500,6.67,Ultra HD,120,3,1,64,20,0,Android,39999
+samsung,Samsung Galaxy A04,71,1,0,0,0,mediatek,8,2.3,4,64,1,5000,6.5,Quad HD,60,2,1,50,5,1024,Android,11499
+oppo,OPPO F21 Pro 4G,82,1,0,0,0,snapdragon,8,2.4,8,128,1,4500,6.5,Ultra HD,90,3,1,64,32,256,Android,20999
+samsung,Samsung Galaxy A23 (8GB RAM + 128GB),82,1,0,0,0,snapdragon,8,2.4,8,128,1,5000,6.6,Ultra HD,60,4,1,50,8,1024,Android,18999
+iqoo,iQOO Z6 5G (6GB RAM + 128GB),80,1,1,0,0,snapdragon,8,2.2,6,128,1,5000,6.58,Ultra HD,120,3,1,50,16,1024,Android,17499
+realme,Realme Narzo 50,74,1,0,0,0,mediatek,8,2.0,4,64,1,5000,6.6,Ultra HD,120,3,1,50,16,256,Android,12999
+samsung,Samsung Galaxy S22 Ultra 5G (12GB RAM + 512GB),87,1,1,1,0,snapdragon,8,3.0,12,512,1,5000,6.8,Ultra HD,120,4,1,108,40,0,Android,111999
+xiaomi,Xiaomi Redmi Note 11S (8GB RAM + 128GB),84,1,0,0,1,mediatek,8,2.05,8,128,1,5000,6.43,Ultra HD,90,4,1,108,16,512,Android,16499
+xiaomi,Xiaomi Redmi Note 11T 5G (8GB RAM + 128GB),83,1,1,0,1,mediatek,8,2.4,8,128,1,5000,6.6,Ultra HD,90,2,1,50,16,1024,Android,18499
+xiaomi,Xiaomi Redmi Note 11T 5G,79,1,1,0,1,mediatek,8,2.4,6,64,1,5000,6.6,Ultra HD,90,2,1,50,16,1024,Android,15499
+realme,Realme GT 2 Pro 5G,89,1,1,1,0,snapdragon,8,3.0,8,128,1,5000,6.7,Ultra HD,120,3,1,50,32,0,Android,49999
+oppo,OPPO Reno7 5G,85,1,1,1,0,mediatek,8,2.0,8,256,1,4500,6.43,Ultra HD,90,3,1,64,32,1024,Android,28990
+realme,Realme 8s 5G (8GB RAM + 128GB),82,1,1,0,0,mediatek,8,2.4,8,128,1,5000,6.5,Ultra HD,90,3,1,64,16,1024,Android,18999
+xiaomi,Xiaomi Redmi Note 10 Lite,76,1,0,0,1,snapdragon,8,2.3,4,64,1,5020,6.67,Ultra HD,60,4,1,48,16,512,Android,12490
+xiaomi,Xiaomi Mi 10i (8GB RAM + 128GB),86,1,1,0,1,snapdragon,8,2.2,8,128,1,4820,6.67,Ultra HD,120,4,1,108,16,512,Android,19980
+samsung,Samsung Galaxy Z Fold 3,89,1,1,1,0,snapdragon,8,2.84,12,256,1,4400,7.6,Ultra HD,120,3,2,12,10,0,Android,110999
+poco,Poco M3,75,1,0,0,1,snapdragon,8,2.0,6,64,1,6000,6.53,Ultra HD,60,3,1,48,8,512,Android,9999
+samsung,Samsung Galaxy A32,80,1,0,0,0,mediatek,8,2.0,6,128,1,5000,6.4,Ultra HD,90,4,1,64,20,1024,Android,21999
+google,Google Pixel 3a,66,0,0,1,0,snapdragon,8,2.0,4,64,1,3000,5.6,Ultra HD,60,1,1,12,8,0,Android,14999
+oppo,OPPO A58 4G,77,1,0,1,1,mediatek,8,2.0,6,128,1,5000,6.72,Ultra HD,60,2,1,50,8,1024,Android,14999
+ikall,iKall S1,66,1,0,0,0,unisoc,4,1.6,6,128,0,6000,6.8,Quad HD,60,3,1,13,8,128,Android,9990
+infinix,Infinix Hot 20 (6GB RAM+ 128GB),78,1,1,0,0,mediatek,8,2.4,6,128,1,5000,6.6,Ultra HD,120,2,1,50,8,1024,Android,13499
+tecno,Tecno Phantom X2 Pro,89,1,1,1,0,mediatek,8,3.05,12,256,1,5160,6.8,Ultra HD,120,3,1,50,32,0,Android,44999
+infinix,Infinix Hot 20 Play,67,1,0,0,0,mediatek,8,2.3,4,64,1,6000,6.82,Quad HD,90,2,1,13,8,256,Android,7999
+oneplus,OnePlus 10R Prime Edition,85,1,1,1,0,mediatek,8,2.85,8,128,1,5000,6.7,Ultra HD,120,3,1,50,16,0,Android,30990
+realme,Realme Narzo 50i Prime,61,1,0,0,0,unisoc,8,1.82,3,32,1,5000,6.5,Quad HD,60,1,1,8,5,1024,Android,6699
+vivo,Vivo T1 44W (8GB RAM + 128GB),82,1,0,0,0,snapdragon,8,2.4,8,128,1,5000,6.44,Ultra HD,60,3,1,50,16,1024,Android,17999
+realme,Realme GT Neo 3 5G (12GB RAM + 256GB),84,1,1,1,0,mediatek,8,2.85,12,256,1,4500,6.7,Ultra HD,120,3,1,50,16,0,Android,29750
+xiaomi,Xiaomi Redmi 10 Power,77,1,0,0,1,snapdragon,8,2.4,8,128,1,6000,6.7,Quad HD,60,2,1,50,5,128,Android,12499
+poco,Poco X4 Pro 5G (6GB RAM + 128GB),82,1,1,0,1,snapdragon,8,2.2,6,128,1,5000,6.67,Ultra HD,120,3,1,64,16,1024,Android,17999
+poco,Poco F4 5G,82,1,1,1,0,snapdragon,8,3.2,6,128,1,4500,6.67,Ultra HD,120,3,1,64,20,0,Android,27999
+iqoo,iQOO 9 SE 5G,83,1,1,1,0,snapdragon,8,2.84,8,128,1,4500,6.62,Ultra HD,120,3,1,48,16,0,Android,33990
+tecno,Tecno Pova 3,74,1,0,0,0,mediatek,8,2.0,4,64,1,7000,6.95,Ultra HD,90,3,1,50,8,256,Android,10599
+xiaomi,Xiaomi 11T Pro 5G (12GB RAM + 256GB),88,1,1,1,1,snapdragon,8,2.84,12,256,1,5000,6.67,Ultra HD,120,3,1,108,16,0,Android,37999
+xiaomi,Xiaomi 11i HyperCharge 5G (8GB RAM + 128GB),86,1,1,0,1,mediatek,8,2.5,8,128,1,4500,6.67,Full HD,120,3,1,108,16,1024,Android,22990
+vivo,Vivo V23e 5G,84,1,1,0,0,mediatek,8,2.4,8,128,1,4050,6.44,Ultra HD,60,3,1,50,44,128,Android,23990
+samsung,Samsung Galaxy A03 Core,62,1,0,0,0,unisoc,4,1.6,2,32,0,5000,6.5,Quad HD,60,1,1,8,5,1024,Android,6999
+samsung,Samsung Galaxy Z Flip 4 5G,88,1,1,1,0,snapdragon,8,3.2,8,128,1,3700,6.7,Ultra HD,120,2,1,12,10,0,Android,89999
+realme,Realme 9i,75,1,0,0,0,snapdragon,8,2.4,4,64,1,5000,6.6,Ultra HD,90,3,1,50,16,1024,Android,14499
+vivo,Vivo X80 5G,86,1,1,0,0,mediatek,8,3.05,8,128,1,4500,6.78,Ultra HD,120,3,1,50,32,0,Android,43990
+motorola,Motorola Moto E40,71,1,0,0,0,unisoc,8,1.8,4,64,0,5000,6.5,Quad HD,90,3,1,48,8,1024,Android,7920
+tecno,Tecno Spark 8 Pro,72,1,0,0,0,mediatek,8,2.0,4,64,1,5000,6.8,Ultra HD,60,3,1,48,8,128,Android,8099
+xiaomi,Xiaomi Redmi 10 Prime,74,1,0,0,1,mediatek,8,2.0,4,64,1,6000,6.5,Ultra HD,90,4,1,50,8,512,Android,10999
+samsung,Samsung Galaxy S21 Plus,88,1,1,1,0,exynos,8,2.9,8,128,1,4800,6.7,Ultra HD,120,3,1,64,10,0,Android,81999
+xiaomi,Xiaomi Mi 10T 5G,80,1,1,1,0,snapdragon,8,2.84,6,128,1,5000,6.67,Full HD,144,3,1,64,20,0,Android,21990
+motorola,Motorola Moto G5 Plus,63,1,0,1,0,snapdragon,8,2.0,4,32,0,3000,5.2,Quad HD,60,1,1,12,5,128,Android,7790
+nokia,Nokia C12 Pro (4GB RAM + 64GB),60,1,0,0,0,unisoc,8,1.6,4,64,0,4000,6.3,Quad HD,60,1,1,8,5,128,Android,7299
+itel,itel A60,60,1,0,0,0,unisoc,4,1.3,2,32,0,5000,6.6,Quad HD,60,2,1,8,5,128,Android,5985
+tecno,Tecno Pop 7 Pro,61,1,0,0,0,mediatek,4,2.0,2,64,1,5000,6.56,Quad HD,60,2,1,12,5,256,Android,6499
+tecno,Tecno Spark Go 2023,62,1,0,0,0,mediatek,4,2.0,3,32,1,5000,6.56,Quad HD,60,2,1,13,5,256,Android,6796
+poco,Poco C50 (3GB RAM + 32GB),61,1,0,0,0,mediatek,4,2.0,3,32,1,5000,6.52,Quad HD,60,2,1,8,5,512,Android,6199
+realme,Realme GT Neo 3T (8GB RAM + 256GB),82,1,1,0,0,snapdragon,8,3.2,8,256,1,5000,6.62,Ultra HD,120,3,1,64,16,0,Android,38999
+tecno,Tecno Camon 19 Pro Mondrian Edition,84,1,0,1,0,mediatek,8,2.05,8,128,1,5000,6.8,Ultra HD,120,3,1,64,32,512,Android,15999
+samsung,Samsung Galaxy A33 5G (8GB RAM + 128GB),85,1,1,1,0,exynos,8,2.4,8,128,1,5000,6.4,Ultra HD,90,4,1,48,13,1024,Android,26999
+realme,Realme C35 (4GB RAM + 128GB),71,1,0,0,0,unisoc,8,1.8,4,128,1,5000,6.6,Ultra HD,90,3,1,50,8,1024,Android,12999
+poco,POCO M4 Pro 4G (8GB RAM + 128GB),81,1,0,0,1,mediatek,8,2.05,8,128,1,5000,6.43,Ultra HD,90,3,1,64,16,1024,Android,17999
+iqoo,iQOO 9 Pro 5G (12GB RAM + 256GB),88,1,1,1,0,snapdragon,8,3.0,12,256,1,4700,6.78,Ultra HD,120,3,1,50,16,0,Android,44990
+vivo,Vivo T1 Pro,81,1,1,0,0,snapdragon,8,2.4,6,128,1,4700,6.44,Ultra HD,90,3,1,64,16,1024,Android,23999
+xiaomi,Xiaomi Redmi Note 11 (6GB RAM + 64GB),79,1,0,0,1,snapdragon,8,2.4,6,64,1,5000,6.43,Ultra HD,90,4,1,50,13,512,Android,13493
+infinix,Infinix Note 12,74,1,0,0,0,mediatek,8,2.0,4,64,1,5000,6.7,Full HD,60,3,1,50,16,512,Android,10999
+realme,Realme Narzo 50A (4GB RAM + 128GB),73,1,0,0,0,mediatek,8,2.0,4,128,1,6000,6.5,Quad HD,60,3,1,50,8,256,Android,10499
+oneplus,OnePlus Nord 2 5G (6GB RAM + 128GB),82,1,1,1,0,mediatek,8,3.0,6,128,1,4500,6.43,Ultra HD,90,3,1,50,32,0,Android,26990
+samsung,Samsung Galaxy M21 2021,76,1,0,0,0,exynos,8,2.3,4,64,1,6000,6.4,Ultra HD,60,3,1,48,20,512,Android,13190
+xiaomi,Xiaomi Redmi Note 10T 5G,75,1,1,0,1,mediatek,8,2.2,4,64,1,5000,6.5,Ultra HD,90,3,1,48,8,1024,Android,13999
+realme,Realme X7 Max,84,1,1,1,0,mediatek,8,3.0,8,128,1,4500,6.43,Ultra HD,120,3,1,64,16,0,Android,26999
+motorola,Motorola Moto G40 Fusion (6GB RAM + 128GB),81,1,0,0,0,snapdragon,8,2.3,6,128,1,6000,6.78,Ultra HD,120,3,1,64,16,256,Android,13499
+xiaomi,Xiaomi Redmi Note 10 Pro Max (6GB RAM + 128GB),82,1,0,0,1,snapdragon,8,2.3,6,128,1,5020,6.67,Ultra HD,120,4,1,108,16,512,Android,20899
+realme,Realme X3 SuperZoom Edition (8GB RAM + 256GB),82,1,0,0,0,snapdragon,8,2.96,8,256,1,4200,6.57,Ultra HD,120,4,2,64,32,0,Android,28990
+xiaomi,Xiaomi Mi 10T 5G (8GB RAM + 128GB),83,1,1,1,0,snapdragon,8,2.84,8,128,1,5000,6.67,Full HD,144,3,1,64,20,0,Android,22990
+samsung,Samsung Galaxy M11 (4GB RAM + 64GB),68,1,0,0,0,snapdragon,8,1.8,4,64,0,5000,6.4,Quad HD,60,3,1,13,8,512,Android,8994
+xiaomi,Xiaomi Redmi Note 10 Pro,79,1,0,0,1,snapdragon,8,2.3,6,64,1,5020,6.67,Ultra HD,120,4,1,64,16,512,Android,15990
+samsung,Samsung Galaxy A52,83,1,0,0,0,snapdragon,8,2.3,6,128,1,4500,6.5,Ultra HD,90,4,1,64,32,1024,Android,26499
+xiaomi,Xiaomi Redmi 9,68,1,0,0,0,mediatek,8,2.3,4,64,0,5000,6.53,Quad HD,60,2,1,13,5,512,Android,9499
+itel,itel S23 (4GB RAM +128 GB),70,1,0,0,0,unisoc,8,1.6,4,128,1,5000,6.6,HD,90,2,1,50,8,512,Android,8499
+samsung,Samsung Galaxy A14 4G (4GB RAM + 128 GB),75,1,0,0,0,exynos,8,2.0,4,128,1,5000,6.6,Ultra HD,60,3,1,50,13,1024,Android,14249
+tecno,Tecno Spark Go 2023 (3GB RAM + 64GB),64,1,0,0,0,mediatek,4,2.0,3,64,1,5000,6.56,Quad HD,60,2,1,13,5,256,Android,7598
+realme,Realme C33 2023 (4GB RAM + 128GB),71,1,0,0,0,unisoc,8,1.8,4,128,1,5000,6.5,Quad HD,60,2,1,50,5,1024,Android,10499
+nokia,Nokia C22,61,1,0,0,0,unisoc,8,1.6,2,64,0,5000,6.52,Quad HD,60,2,1,13,8,128,Android,7249
+samsung,Samsung Galaxy A04s (4GB RAM + 128GB),72,1,0,0,0,exynos,8,2.0,4,128,1,5000,6.5,Quad HD,90,3,1,50,5,1024,Android,12990
+samsung,Samsung Galaxy A04e (4GB RAM + 128GB),69,1,0,0,0,mediatek,8,2.3,4,128,0,5000,6.5,Quad HD,60,2,1,13,5,1024,Android,11299
+tecno,Tecno Pova 4,73,1,0,0,0,mediatek,8,2.2,8,128,1,6000,6.82,Quad HD,90,2,1,50,8,512,Android,11998
+apple,Apple iPhone 14 Plus (512GB),83,1,1,1,0,bionic,6,3.22,6,512,1,4325,6.7,Ultra HD,60,2,1,12,12,0,iOS,102999
+apple,Apple iPhone 14 Pro Max (512GB),87,1,1,1,0,bionic,6,3.46,6,512,1,4323,6.7,Ultra HD,120,3,1,48,12,0,iOS,165990
+oppo,OPPO A77 (4GB RAM + 128 GB),71,1,0,0,0,mediatek,8,2.3,4,128,1,5000,6.56,Quad HD,60,2,1,50,8,128,Android,15999
+oneplus,OnePlus 10T (12GB RAM + 256GB),87,1,1,1,0,snapdragon,8,3.2,12,256,1,4800,6.7,Ultra HD,120,3,1,50,16,0,Android,47999
+vivo,Vivo T1x (6GB RAM + 128GB),77,1,0,0,0,snapdragon,8,2.4,6,128,1,5000,6.58,Ultra HD,90,2,1,50,8,128,Android,14999
+realme,Realme C30 (3GB RAM + 32GB),60,1,0,0,0,unisoc,8,1.82,3,32,0,5000,6.5,Quad HD,60,1,1,8,5,1024,Android,6499
+infinix,Infinix Hot 12 Play,66,1,0,0,0,unisoc,8,1.82,4,64,1,6000,6.82,HD,90,2,1,13,8,256,Android,8999
+nokia,Nokia G21 (6GB RAM + 128GB),75,1,0,0,0,unisoc,8,1.6,6,128,1,5050,6.5,Quad HD,90,3,1,50,8,512,Android,14999
+samsung,Samsung Galaxy A13 (4GB RAM + 128GB),75,1,0,0,0,exynos,8,2.0,4,128,1,5000,6.6,Ultra HD,60,4,1,50,8,1024,Android,14999
+apple,Apple iPhone SE 3 2022 (256GB),61,1,1,1,0,bionic,6,3.22,4,256,1,1624,4.7,Full HD+,60,1,1,12,7,0,iOS,58900
+apple,Apple iPhone SE 3 2022 (128GB),61,1,1,1,0,bionic,6,3.22,4,128,1,1624,4.7,Full HD+,60,1,1,12,7,0,iOS,48900
+poco,POCO M4 Pro 4G (6GB RAM + 128GB),79,1,0,0,1,mediatek,8,2.05,6,128,1,5000,6.43,Ultra HD,90,3,1,64,16,1024,Android,16499
+realme,Realme 9 Pro Plus 5G (8GB RAM + 128GB),81,1,1,0,0,mediatek,8,2.5,8,128,1,4500,6.4,Ultra HD,90,3,1,50,16,0,Android,26999
+poco,Poco M4 Pro 5G (8GB RAM + 128GB),82,1,1,0,1,mediatek,8,2.4,8,128,1,5000,6.6,Ultra HD,90,2,1,50,16,1024,Android,18999
+xiaomi,Xiaomi Redmi Note 11S (6GB RAM + 128GB),81,1,0,0,1,mediatek,8,2.05,6,128,1,5000,6.43,Ultra HD,90,4,1,108,16,512,Android,15499
+xiaomi,Xiaomi 11i 5G (8GB RAM + 128GB),83,1,1,0,1,mediatek,8,2.5,8,128,1,5160,6.67,Full HD,120,3,1,108,16,1024,Android,22690
+infinix,Infinix Note 12 Pro,83,1,0,0,0,mediatek,8,2.2,8,256,1,5000,6.7,Ultra HD,60,3,1,108,16,2048,Android,16999
+xiaomi,Xiaomi 11i HyperCharge 5G,83,1,1,0,1,mediatek,8,2.5,6,128,1,4500,6.67,Full HD,120,3,1,108,16,1024,Android,22999
+realme,Realme Narzo 50i (4GB RAM + 64GB),62,1,0,0,0,unisoc,8,1.6,4,64,0,5000,6.5,Quad HD,60,1,1,8,5,256,Android,8599
+motorola,Motorola Moto G31,75,1,0,0,0,mediatek,8,2.0,4,64,1,5000,6.47,Ultra HD,60,3,1,50,13,1024,Android,11599
+apple,Apple iPhone 13 Pro (1TB),84,1,1,1,0,bionic,6,3.22,6,1000,1,3095,6.1,Ultra HD,120,3,1,12,12,0,iOS,144999
+apple,Apple iPhone 13 (512GB),80,1,1,1,0,bionic,6,3.22,4,512,1,3240,6.1,Ultra HD,60,2,1,12,12,0,iOS,85999
+apple,Apple iPhone 13 Pro Max (256GB),84,1,1,1,0,bionic,6,3.22,6,256,1,4352,6.7,Ultra HD,120,3,1,12,12,0,iOS,139900
+realme,Realme Narzo 50i,62,1,0,0,0,unisoc,8,1.6,2,32,0,5000,6.5,Quad HD,60,1,1,8,5,256,Android,6599
+samsung,Samsung Galaxy A52s 5G (8GB RAM + 128GB),89,1,1,1,0,snapdragon,8,2.4,8,128,1,4500,6.5,Ultra HD,120,4,1,64,32,1024,Android,40999
+oppo,OPPO F19s,79,1,0,0,0,snapdragon,8,2.0,6,128,1,5000,6.43,Ultra HD,60,3,1,48,16,256,Android,16179
+vivo,Vivo Y33s,80,1,0,0,0,mediatek,8,2.0,8,128,1,5000,6.58,Ultra HD,60,3,1,50,16,1024,Android,15888
+tecno,Tecno Phantom X,84,1,0,0,0,mediatek,8,2.05,8,256,1,4700,6.7,Ultra HD,90,3,2,50,48,0,Android,21999
+xiaomi,Xiaomi Redmi 10A,64,1,0,0,0,mediatek,8,2.0,3,32,0,5000,6.53,Quad HD,60,1,1,13,5,512,Android,7980
+poco,Poco X3 Pro (8GB RAM + 128GB),85,1,0,0,1,snapdragon,8,2.96,8,128,1,5160,6.67,Ultra HD,120,4,1,48,20,128,Android,24999
+xiaomi,Xiaomi Redmi Note 10 (6GB RAM + 128GB),78,1,0,0,1,snapdragon,8,2.2,6,128,1,5000,6.43,Ultra HD,60,4,1,48,13,512,Android,15990
+samsung,Samsung Galaxy S21 Plus 5G (8GB RAM + 256GB),89,1,1,1,0,exynos,8,2.9,8,256,1,4800,6.7,Ultra HD,120,3,1,64,10,0,Android,85999
+samsung,Samsung Galaxy S21 5G (8GB RAM + 256GB),88,1,1,1,0,exynos,8,2.9,8,256,1,4000,6.2,Ultra HD,120,3,1,64,10,0,Android,73999
+xiaomi,Xiaomi Redmi 9 Power,74,1,0,0,1,snapdragon,8,2.0,4,64,1,6000,6.53,Ultra HD,60,4,1,48,8,512,Android,13999
+apple,Apple iPhone 12 (256GB),76,1,1,1,0,bionic,6,3.1,4,256,1,2815,6.1,Ultra HD,60,2,1,12,12,0,iOS,66999
+vivo,Vivo V20 Pro,84,1,1,0,0,snapdragon,8,2.4,8,128,1,4000,6.44,Ultra HD,60,3,2,64,44,0,Android,29990
+oppo,Oppo Reno 3 Pro (8GB RAM + 256GB),87,1,0,0,0,mediatek,8,2.2,8,256,1,4025,6.4,Ultra HD,60,4,2,64,44,256,Android,27990
+samsung,Samsung Galaxy A12,71,1,0,0,0,mediatek,8,2.3,4,64,1,5000,6.5,Quad HD,60,4,1,48,8,128,Android,11759
+realme,Realme X2 Pro (12GB RAM + 256GB),84,1,0,1,0,snapdragon,8,2.96,12,256,1,4000,6.5,Ultra HD,60,4,1,64,16,0,Android,24999
+xiaomi,Xiaomi Redmi 8 (4GB RAM + 64GB),66,1,0,0,1,snapdragon,8,2.0,4,64,1,5000,6.22,Quad HD,60,2,1,12,8,512,Android,10990
+xiaomi,Xiaomi Redmi Y2,62,1,0,0,1,snapdragon,8,2.0,3,32,0,3080,5.99,Quad HD,60,2,1,12,16,128,Android,10999
+samsung,Samsung Galaxy Z Flip 5 (8GB RAM + 512GB),88,0,1,1,0,snapdragon,8,3.2,8,512,1,3700,6.7,Ultra HD,120,2,1,12,10,0,Android,109999
+ikall,iKall Z19 Pro Ultra,65,1,0,0,0,mediatek,6,1.6,6,128,0,5000,6.5,Quad HD,60,2,1,13,8,512,Android,8799
+nokia,Nokia C12 Pro,67,1,0,0,0,unisoc,8,1.6,2,64,0,4000,6.3,Quad HD,60,1,1,8,5,128,Android,6990
+lava,Lava Blaze Pro (6GB RAM + 128GB),74,1,0,0,0,mediatek,8,2.3,6,128,0,5000,6.5,HD,90,3,1,50,8,256,Android,10799
+nokia,Nokia C31 (4GB RAM + 64GB),65,1,0,0,0,unisoc,8,1.6,4,64,1,5050,6.74,Quad HD,60,3,1,13,5,256,Android,8499
+samsung,Samsung Galaxy A04e (3GB RAM + 64GB),66,1,0,0,0,mediatek,8,2.3,3,64,0,5000,6.5,Quad HD,60,2,1,13,5,1024,Android,9850
+oppo,OPPO Reno 8 Pro House of Dragon Edition,86,1,1,1,0,mediatek,8,2.85,12,256,1,4500,6.7,Ultra HD,120,3,1,50,32,0,Android,45999
+itel,itel Vision 3 (2GB RAM + 32GB),63,1,0,0,0,unisoc,8,1.6,2,32,1,5000,6.6,HD,60,2,1,8,5,128,Android,6059
+xiaomi,Xiaomi Redmi A1 Plus (3GB RAM + 32GB),61,1,0,0,0,mediatek,4,2.0,3,32,1,5000,6.52,Quad HD,60,2,1,8,5,512,Android,6599
+samsung,Samsung Galaxy M32 Prime Edition,75,1,0,0,0,mediatek,8,2.0,4,64,1,6000,6.4,Ultra HD,90,4,1,64,20,1024,Android,14490
+apple,Apple iPhone 14 Pro (1TB),86,1,1,1,0,bionic,6,3.46,6,1000,1,3200,6.1,Ultra HD,120,3,1,48,12,0,iOS,163990
+apple,Apple iPhone 14 (512GB),82,1,1,1,0,bionic,6,3.22,6,512,1,3279,6.1,Ultra HD,60,2,1,12,12,0,iOS,92999
+itel,itel A23s,68,1,0,0,0,unisoc,4,1.4,2,32,0,3020,5.0,FWVGA,60,1,1,2,3,0,Android,4649
+realme,Realme GT 2 Pro 5G (12GB RAM + 256GB),89,1,1,1,0,snapdragon,8,3.0,12,256,1,5000,6.7,Ultra HD,120,3,1,50,32,0,Android,57999
+oppo,OPPO A16e,65,1,0,0,0,mediatek,8,2.0,3,32,0,4230,6.52,Quad HD,60,1,1,13,5,1024,Android,10499
+oppo,OPPO A96 4G,80,1,0,0,0,snapdragon,8,2.4,8,128,1,5000,6.59,Ultra HD,90,2,1,50,16,128,Android,18999
+samsung,Samsung Galaxy A13 (6GB RAM + 128GB),78,1,0,0,0,exynos,8,2.0,6,128,1,5000,6.6,Ultra HD,60,4,1,50,8,1024,Android,16499
+iqoo,iQOO 9 5G (12GB RAM + 256GB),85,1,1,0,0,snapdragon,8,2.9,12,256,1,4350,6.56,Ultra HD,120,3,1,48,16,0,Android,33990
+samsung,Samsung Galaxy S22 5G (8GB RAM + 256GB),87,1,1,1,0,snapdragon,8,3.0,8,256,1,3700,6.1,Ultra HD,120,3,1,50,10,0,Android,65000
+oppo,OPPO A16K (4GB RAM + 64GB),66,1,0,0,0,mediatek,8,2.3,4,64,0,4230,6.52,Quad HD,60,1,1,13,5,256,Android,9999
+xiaomi,Xiaomi Redmi Note 11 Pro 4G,81,1,0,0,1,mediatek,8,2.05,6,128,1,5000,6.67,Ultra HD,120,4,1,108,16,1024,Android,17999
+xiaomi,Xiaomi 11T Pro 5G (8GB RAM + 256GB),87,1,1,1,1,snapdragon,8,2.84,8,256,1,5000,6.67,Ultra HD,120,3,1,108,16,0,Android,35999
+motorola,Motorola Moto G22,75,1,0,0,0,mediatek,8,2.3,4,64,1,5000,6.53,Quad HD,90,4,1,50,16,1024,Android,10999
+infinix,Infinix Hot 12,72,1,0,0,0,mediatek,8,2.3,4,64,1,6000,6.82,Quad HD,90,3,1,50,8,512,Android,8999
+xiaomi,Xiaomi Redmi Note 10S (8GB RAM + 128GB),82,1,0,0,1,mediatek,8,2.05,8,128,1,5000,6.43,Ultra HD,60,4,1,64,13,512,Android,17990
+vivo,Vivo Y21e,69,1,0,0,0,snapdragon,8,2.4,3,64,1,5000,6.51,Quad HD,60,2,1,13,8,1024,Android,12499
+samsung,Samsung Galaxy A03,67,1,0,0,0,unisoc,8,2.0,3,32,1,5000,6.5,Quad HD,60,2,1,48,5,1024,Android,8890
+poco,POCO C31 (4GB RAM + 64GB),68,1,0,0,0,mediatek,8,2.3,4,64,0,5000,6.53,Quad HD,60,3,1,13,5,512,Android,9499
+xiaomi,Xiaomi Redmi 9 Activ (6GB RAM + 128GB),72,1,0,0,0,mediatek,8,2.3,6,128,0,5000,6.53,Quad HD,60,2,1,13,5,512,Android,10890
+realme,Realme Narzo 50A,71,1,0,0,0,mediatek,8,2.0,4,64,1,6000,6.5,Quad HD,60,3,1,50,8,256,Android,11499
+samsung,Samsung Galaxy A12 (6GB RAM + 128GB),75,1,0,0,0,mediatek,8,2.3,6,128,1,5000,6.5,Quad HD,60,4,1,48,8,128,Android,15190
+xiaomi,Xiaomi Mi 11 Lite (8GB RAM + 128GB),82,1,0,0,1,snapdragon,8,2.3,8,128,1,4250,6.55,Ultra HD,90,3,1,64,16,512,Android,17499
+samsung,Samsung Galaxy M32 (6GB RAM + 128GB),80,1,0,0,0,mediatek,8,2.0,6,128,1,6000,6.4,Ultra HD,90,4,1,64,20,1024,Android,18999
+xiaomi,Xiaomi Redmi Note 10S (6GB RAM + 128GB),79,1,0,0,1,mediatek,8,2.05,6,128,1,5000,6.43,Ultra HD,60,4,1,64,13,512,Android,16499
+motorola,Motorola Moto G40 Fusion,77,1,0,0,0,snapdragon,8,2.3,4,64,1,6000,6.78,Ultra HD,120,3,1,64,16,256,Android,16999
+samsung,Samsung Galaxy M12,72,1,0,0,0,exynos,8,2.0,4,64,1,6000,6.5,Quad HD,90,4,1,48,8,1024,Android,10999
+realme,Realme Narzo 20A,65,1,0,0,0,snapdragon,8,2.0,3,32,0,5000,6.5,Quad HD,60,3,1,12,8,256,Android,8499
+realme,Realme X7 Pro,84,1,1,1,0,mediatek,8,2.6,8,128,1,4500,6.55,Ultra HD,120,4,1,64,32,0,Android,29989
+motorola,Motorola Moto G 5G,82,1,1,1,0,snapdragon,8,2.2,6,128,1,5000,6.67,Ultra HD,60,3,1,48,16,1024,Android,20999
+poco,Poco X2,79,1,0,0,1,snapdragon,8,2.2,6,64,1,4500,6.67,Ultra HD,120,4,2,64,20,512,Android,15490
+realme,Realme XT (8GB RAM + 128GB),81,1,0,0,0,snapdragon,8,2.3,8,128,1,4000,6.4,Ultra HD,60,4,1,64,16,256,Android,19909
+nokia,Nokia 2.1,67,1,0,0,0,snapdragon,4,1.4,1,8,0,4000,5.5,Full HD+,60,1,1,8,5,128,Android,4999
+oneplus,OnePlus 6 (8GB RAM + 128GB),77,1,0,1,0,snapdragon,8,2.8,8,128,0,3300,6.28,Ultra HD,60,2,1,20,16,0,Android,17990
+ikall,iKall Z18 Pro,68,1,0,0,0,mediatek,4,1.6,6,128,0,5000,6.5,Quad HD,60,1,1,13,8,256,Android,8799
+lava,Lava Yuva,70,1,0,0,0,mediatek,8,2.0,2,32,1,4000,6.5,HD,60,2,1,8,5,512,Android,6499
+itel,Itel P40 (2GB RAM + 64GB),71,1,0,0,0,unisoc,8,1.6,2,64,1,6000,6.6,Quad HD,60,2,1,13,5,512,Android,6599
+nokia,Nokia C12 Pro (3GB RAM + 64GB),67,1,0,0,0,unisoc,8,1.6,3,64,0,4000,6.3,Quad HD,60,1,1,8,5,128,Android,7274
+realme,Realme C33 2023,69,1,0,0,0,unisoc,8,1.8,4,64,1,5000,6.5,Quad HD,60,2,1,50,5,1024,Android,9999
+iqoo,iQOO 11 (12GB RAM + 256GB),88,1,1,1,0,snapdragon,8,3.2,12,256,1,5000,6.78,Ultra HD,144,3,1,50,16,0,Android,59990
+samsung,Samsung Galaxy S23 Plus (8GB RAM + 512GB),89,1,1,1,0,snapdragon,8,3.36,8,512,1,4700,6.6,Ultra HD,120,3,1,50,12,0,Android,104999
+samsung,Samsung Galaxy A04 (4GB RAM + 128GB),72,1,0,0,0,mediatek,8,2.3,4,128,1,5000,6.5,Quad HD,60,2,1,50,5,1024,Android,11490
+xiaomi,Xiaomi Redmi 10A (6GB RAM + 128GB),70,1,0,0,0,mediatek,8,2.0,6,128,0,5000,6.53,Quad HD,60,1,1,13,5,512,Android,11999
+samsung,Samsung Galaxy Z Flip 4 (8GB RAM + 256GB),88,1,1,1,0,snapdragon,8,3.2,8,256,1,3700,6.7,Ultra HD,120,2,1,12,10,0,Android,94999
+xiaomi,Xiaomi Redmi 10A Sport,69,1,0,0,1,mediatek,8,2.0,6,128,0,5000,6.53,Quad HD,60,1,1,13,5,512,Android,10390
+vivo,Vivo T1x (4GB RAM + 128GB),75,1,0,0,0,snapdragon,8,2.4,4,128,1,5000,6.58,Ultra HD,90,2,1,50,8,128,Android,16990
+vivo,Vivo Y15C (3GB RAM + 64GB),67,1,0,0,0,mediatek,8,2.3,3,64,0,5000,6.51,Quad HD,60,2,1,13,8,1024,Android,10499
+poco,Poco F4 5G (8GB RAM + 128GB),85,1,1,1,0,snapdragon,8,3.2,8,128,1,4500,6.67,Ultra HD,120,3,1,64,20,0,Android,27999
+infinix,Infinix Smart 6 HD,61,1,0,0,0,mediatek,4,2.0,2,32,0,5000,6.6,Quad HD,60,2,1,8,5,512,Android,5999
+vivo,Vivo Y21G,65,1,0,0,0,mediatek,8,2.0,4,64,1,5000,6.51,Quad HD,60,2,1,13,8,1024,Android,13499
+nokia,Nokia C01 Plus (2GB RAM + 32GB),68,1,0,0,0,unisoc,8,1.6,2,32,0,3000,5.45,Quad HD,60,1,1,5,5,256,Android,5999
+oppo,OPPO K10 (8GB RAM + 128GB),80,1,0,0,0,snapdragon,8,2.4,8,128,1,5000,6.59,Ultra HD,90,3,1,50,16,1024,Android,20999
+oppo,OPPO A16e (4GB RAM + 64GB),68,1,0,0,0,mediatek,8,2.0,4,64,0,4230,6.52,Quad HD,60,1,1,13,5,1024,Android,12995
+xiaomi,Xiaomi Redmi Note 11 Pro 4G (8GB RAM + 128GB),83,1,0,0,1,mediatek,8,2.05,8,128,1,5000,6.67,Ultra HD,120,4,1,108,16,1024,Android,19999
+realme,Realme 9i (4GB RAM + 128GB),75,1,0,0,0,snapdragon,8,2.4,4,128,1,5000,6.6,Ultra HD,90,3,1,50,16,1024,Android,15059
+samsung,Samsung Galaxy A03 (4GB RAM + 64GB),70,1,0,0,0,unisoc,8,2.0,4,64,1,5000,6.5,Quad HD,60,2,1,48,5,1024,Android,11499
+itel,itel A27,75,1,0,0,0,unisoc,4,1.4,2,32,0,4000,5.45,HD,60,1,1,5,2,0,Android,4999
+nokia,Nokia G21,71,1,0,0,0,unisoc,8,1.6,4,64,1,5050,6.5,Quad HD,90,3,1,50,8,512,Android,12999
+vivo,Vivo Y33T,81,1,0,0,0,snapdragon,8,2.4,8,128,1,5000,6.58,Ultra HD,90,3,1,50,16,1024,Android,17990
+realme,Realme Narzo 50A Prime,73,1,0,0,0,unisoc,8,1.82,4,64,1,5000,6.6,Ultra HD,60,3,1,50,8,1024,Android,10499
+realme,Realme C31,62,1,0,0,0,unisoc,8,1.82,3,32,0,5000,6.52,Quad HD,60,3,1,13,5,1024,Android,8699
+xiaomi,Xiaomi Redmi 10 Prime 2022,74,1,0,0,1,mediatek,8,2.0,4,64,1,6000,6.5,Ultra HD,90,4,1,50,8,128,Android,10999
+tecno,Tecno Spark 8 (4GB RAM + 64GB),64,1,0,0,0,mediatek,8,1.8,4,64,0,5000,6.52,Quad HD,60,2,1,16,8,256,Android,11999
+motorola,Motorola Moto G31 (6GB RAM+ 128GB),78,1,0,0,0,mediatek,8,2.0,6,128,1,5000,6.47,Ultra HD,60,3,1,50,13,1024,Android,14079
+infinix,Infinix Smart 6,60,1,0,0,0,mediatek,4,2.0,2,64,0,5000,6.6,Quad HD,60,2,1,8,5,512,Android,6999
+realme,Realme C25Y (4GB RAM + 64GB),69,1,0,0,0,unisoc,8,1.8,4,64,1,5000,6.5,HD,60,3,1,50,8,256,Android,10749
+vivo,Vivo Y20T,70,1,0,0,0,snapdragon,8,2.0,6,64,1,5000,6.51,HD,60,3,1,13,8,1024,Android,15490
+xiaomi,Xiaomi Redmi Note 10 Lite (6GB RAM + 128GB),80,1,0,0,1,snapdragon,8,2.3,6,128,1,5020,6.67,Ultra HD,60,4,1,48,16,512,Android,13870
+xiaomi,Xiaomi Redmi 9 Activ,68,1,0,0,0,mediatek,8,2.3,4,64,0,5000,6.53,Quad HD,60,2,1,13,5,512,Android,8999
+apple,Apple iPhone 13 Pro (512GB),84,1,1,1,0,bionic,6,3.22,6,512,1,3095,6.1,Ultra HD,120,3,1,12,12,0,iOS,125999
+apple,Apple iPhone 13 Pro Max (512GB),85,1,1,1,0,bionic,6,3.22,6,512,1,4352,6.7,Ultra HD,120,3,1,12,12,0,iOS,134999
+apple,Apple iPhone 13 Pro Max (1TB),86,1,1,1,0,bionic,6,3.22,6,1000,1,4352,6.7,Ultra HD,120,3,1,12,12,0,iOS,155999
+apple,Apple iPhone 13 Mini (512GB),80,1,1,1,0,bionic,6,3.22,4,512,1,2438,5.4,Ultra HD,60,2,1,12,12,0,iOS,89999
+realme,Realme C25Y,70,1,0,0,0,unisoc,8,1.8,4,128,1,5000,6.5,HD,60,3,1,50,8,256,Android,13999
+xiaomi,Xiaomi Redmi 10 Prime (6GB RAM + 128GB),77,1,0,0,1,mediatek,8,2.0,6,128,1,6000,6.5,Ultra HD,90,4,1,50,8,512,Android,16450
+ikall,iKall Z1,68,1,0,0,0,mediatek,4,1.3,4,32,0,3000,5.45,HD,60,1,1,8,5,0,Android,4799
+samsung,Samsung Galaxy M32 5G (8GB RAM + 128GB),81,1,1,0,0,mediatek,8,2.0,8,128,1,5000,6.5,Quad HD,60,4,1,48,13,1024,Android,21999
+realme,Realme C21Y (4GB RAM + 64GB),65,1,0,0,0,unisoc,8,1.8,4,64,0,5000,6.5,Quad HD,60,3,1,13,5,256,Android,10499
+xiaomi,Xiaomi Mi 11X Pro 5G (8GB RAM + 256GB),86,1,1,0,1,snapdragon,8,2.84,8,256,1,4520,6.67,Ultra HD,120,3,1,108,20,0,Android,32334
+samsung,Samsung Galaxy A52 (8GB RAM + 128GB),86,1,0,0,0,snapdragon,8,2.3,8,128,1,4500,6.5,Ultra HD,90,4,1,64,32,1024,Android,27999
+samsung,Samsung Galaxy A72 (8GB RAM + 256GB),88,1,0,0,0,snapdragon,8,2.3,8,256,1,5000,6.7,Ultra HD,90,4,1,64,32,1024,Android,37999
+oppo,OPPO F19 Pro (8GB RAM + 256GB),81,1,0,0,0,mediatek,8,2.2,8,256,1,4310,6.43,Ultra HD,60,4,1,48,16,256,Android,18990
+motorola,Motorola Moto E7 Power (2GB RAM + 32GB),61,1,0,0,0,mediatek,8,2.0,2,32,0,5000,6.5,Quad HD,60,2,1,13,5,1024,Android,6999
+lava,Lava Z6,71,1,0,0,0,mediatek,8,2.3,6,64,0,5000,6.51,Quad HD,60,3,1,13,16,512,Android,8449
+xiaomi,Xiaomi Mi 11 Lite,79,1,0,0,1,snapdragon,8,2.3,6,128,1,4250,6.55,Ultra HD,90,3,1,64,16,512,Android,19999
+xiaomi,Xiaomi Mi 10i (6GB RAM + 64GB),83,1,1,0,1,snapdragon,8,2.2,6,64,1,4820,6.67,Ultra HD,120,4,1,108,16,512,Android,18190
+xiaomi,Xiaomi Redmi 9 Power (4GB RAM + 128GB),75,1,0,0,1,snapdragon,8,2.0,4,128,1,6000,6.53,Ultra HD,60,4,1,48,8,512,Android,14990
+xiaomi,Xiaomi Redmi 9i (4GB RAM + 128GB),67,1,0,0,0,mediatek,8,2.0,4,128,1,5000,6.53,Quad HD,60,1,1,13,5,512,Android,9299
+xiaomi,Xiaomi Redmi Note 9 Pro (4GB RAM + 128GB),77,1,0,0,1,snapdragon,8,2.3,4,128,1,5020,6.67,Ultra HD,60,4,1,48,16,512,Android,15990
+poco,Poco M2,74,1,0,0,1,mediatek,8,2.0,6,64,1,5000,6.53,Ultra HD,60,4,1,13,8,512,Android,10999
+realme,Realme Narzo 20,72,1,0,0,0,mediatek,8,2.0,4,64,1,6000,6.5,Quad HD,60,3,1,48,8,256,Android,10499
+oppo,Oppo Reno 4 Pro,86,1,0,0,0,snapdragon,8,2.3,8,128,1,4000,6.5,Ultra HD,90,4,1,48,32,256,Android,29490
+poco,Poco C3,66,1,0,0,0,mediatek,8,2.3,3,32,0,5000,6.53,Quad HD,60,3,1,13,5,512,Android,6299
+samsung,Samsung Galaxy A21s (6GB RAM + 64GB),74,1,0,0,0,exynos,8,2.0,6,64,0,5000,6.5,Quad HD,60,4,1,48,13,512,Android,16890
+realme,Realme X3 SuperZoom Edition (12GB RAM + 256GB),83,1,0,0,0,snapdragon,8,2.96,12,256,1,4200,6.57,Ultra HD,120,4,2,64,32,0,Android,34999
+xiaomi,Xiaomi Redmi Note 9 (4GB RAM + 128GB),75,1,0,0,1,mediatek,8,2.0,4,128,1,5020,6.53,Ultra HD,60,4,1,48,13,512,Android,12920
+xiaomi,Xiaomi Redmi Note 9 Pro (6GB RAM + 128GB),80,1,0,0,1,snapdragon,8,2.3,6,128,1,5020,6.67,Ultra HD,60,4,1,48,16,512,Android,15690
+itel,itel A25,68,1,0,0,0,unisoc,4,1.4,1,16,0,3020,5.0,Full HD+,60,1,1,5,2,32,Android,4325
+samsung,Samsung Galaxy A70s (8GB RAM + 128GB),83,1,0,1,0,snapdragon,8,2.0,8,128,1,4500,6.7,Ultra HD,60,3,1,64,32,512,Android,30500
+realme,Realme XT,75,1,0,0,0,snapdragon,8,2.3,4,64,1,4000,6.4,Ultra HD,60,4,1,64,16,256,Android,16924
+samsung,Samsung Galaxy A10s,61,1,0,0,0,mediatek,8,2.0,2,32,0,4000,6.2,Quad HD,60,2,1,13,8,512,Android,8999
+xiaomi,Xiaomi Redmi Note 7s (4GB RAM + 64GB),71,1,0,0,1,snapdragon,8,2.2,4,64,1,4000,6.3,Ultra HD,60,2,1,48,13,256,Android,12990
+oppo,OPPO F11,73,1,0,0,0,mediatek,8,2.1,4,128,1,4020,6.5,Ultra HD,60,2,1,48,16,256,Android,17999
+realme,Realme 2 Pro (8GB RAM + 128GB),71,1,0,0,0,snapdragon,8,2.2,8,128,0,3500,6.3,Ultra HD,60,2,1,16,16,256,Android,15499
+realme,Realme 2 Pro (6GB RAM + 64GB),69,1,0,0,0,snapdragon,8,2.2,6,64,0,3500,6.3,Ultra HD,60,2,1,16,16,256,Android,15999
+xiaomi,Xiaomi Redmi 6A,68,1,0,0,0,mediatek,4,2.0,2,16,0,3000,5.45,HD,60,1,1,13,5,256,Android,6500
+ikall,iKall Z17 Pro,60,1,0,0,0,mediatek,4,1.3,4,64,0,5000,6.5,Quad HD,60,1,1,13,8,128,Android,7699
+ikall,iKall Z19 Ultra Plus,64,1,0,0,0,mediatek,6,1.6,6,128,0,5000,6.5,Quad HD,60,1,1,13,8,512,Android,8799
+ikall,iKall Z1 (3GB RAM + 32 GB),68,1,0,0,0,mediatek,4,1.3,3,32,0,3000,5.45,HD,60,1,1,8,5,0,Android,4799
+ikall,iKall Z2 New,67,1,0,0,0,mediatek,4,1.3,4,64,0,4000,6.26,HD,60,1,1,13,8,128,Android,5999
+ikall,iKall Z18 New,64,1,0,0,0,mediatek,4,1.6,6,128,0,5000,6.5,Quad HD,60,2,1,13,8,512,Android,8676
+ikall,iKall Z17 New,60,1,0,0,0,mediatek,4,1.3,4,64,0,5000,6.5,Quad HD,60,1,1,13,8,128,Android,7679
+ikall,iKall K440 2023,60,1,0,0,0,mediatek,4,1.3,4,64,1,4000,6.26,Quad HD,60,1,1,13,8,128,Android,6299
+ikall,iKall K470 Plus,67,1,0,0,0,mediatek,4,1.3,4,64,0,4000,6.25,Quad HD,60,1,1,13,8,128,Android,6299
+ikall,iKall K470 New (4GB RAM + 64GB),67,1,0,0,0,mediatek,4,1.3,4,64,0,4000,6.26,Quad HD,60,1,1,13,8,128,Android,6299
+itel,Itel P40 (3GB RAM + 32GB),71,1,0,0,0,unisoc,8,1.6,3,32,1,6000,6.6,Quad HD,60,2,1,13,5,512,Android,6599
+ikall,iKall Z19 (4GB RAM + 64GB),60,1,0,0,0,mediatek,4,1.6,4,64,0,5000,6.5,Quad HD,60,1,1,13,8,128,Android,7699
+ikall,iKall Z20 Pro,66,1,0,0,0,mediatek,4,1.6,4,64,0,5000,6.5,Quad HD,60,1,1,13,8,128,Android,7699
+lava,Lava X3,70,1,0,0,0,mediatek,4,2.0,3,32,0,4000,6.5,HD,60,2,1,8,5,512,Android,6750
+lava,Lava Blaze NXT,66,1,0,0,0,mediatek,8,2.3,4,64,0,5000,6.5,Quad HD,60,3,1,13,8,256,Android,8999
+lava,Lava Yuva Pro,63,1,0,0,0,mediatek,8,1.8,3,32,1,5000,6.52,HD,60,3,1,13,8,512,Android,6999
+itel,itel Vision 3 Turbo,61,1,0,0,0,unisoc,8,1.6,3,64,1,5000,6.6,HD,60,2,1,8,5,128,Android,6999
+apple,Apple iPhone 14 Pro (512GB),86,1,1,1,0,bionic,6,3.46,6,512,1,3200,6.1,Ultra HD,120,3,1,48,12,0,iOS,147999
+ikall,iKall K450 New,67,1,0,0,0,mediatek,4,1.3,4,32,0,4000,6.26,Quad HD,60,1,1,16,13,128,Android,6224
+ikall,iKall Z3 New,69,1,0,0,0,mediatek,4,1.3,4,64,0,4000,6.26,Quad HD,60,1,1,13,8,64,Android,5799
+nokia,Nokia C21 Plus (4GB RAM + 64GB),64,1,0,0,0,unisoc,8,1.6,4,64,0,5050,6.52,Quad HD,60,2,1,13,5,128,Android,9999
+lava,Lava Z3 Pro,61,1,0,0,0,mediatek,8,1.8,3,32,0,5000,6.5,HD,60,1,1,8,5,512,Android,6290
+ikall,iKall K475 New,67,1,0,0,0,mediatek,4,1.3,4,64,0,4000,6.26,Quad HD,60,1,1,13,16,128,Android,6999
+ikall,iKall Z10 New,61,1,0,0,0,mediatek,4,1.6,4,64,0,5000,6.53,Quad HD,60,1,1,13,8,64,Android,7999
+ikall,iKall K570 New,61,1,0,0,0,mediatek,8,1.6,4,64,0,5000,6.53,HD,60,1,1,20,13,256,Android,7999
+ikall,iKall K525 Pro,69,1,0,0,0,mediatek,8,1.3,4,64,0,4000,6.26,HD,60,1,1,16,13,64,Android,7999
+realme,Realme Narzo 50A Prime (4GB RAM + 128GB),74,1,0,0,0,unisoc,8,1.82,4,128,1,5000,6.6,Ultra HD,60,3,1,50,8,1024,Android,12499
+itel,itel A49,67,1,0,0,0,unisoc,4,1.4,2,32,0,4000,6.6,Quad HD,60,2,1,5,5,128,Android,5949
+lava,Lava X2,60,1,0,0,0,mediatek,8,2.3,2,32,0,5000,6.5,Quad HD,60,2,1,8,5,128,Android,6139
+nokia,Nokia C21 Plus,61,1,0,0,0,unisoc,8,1.6,3,32,0,5050,6.52,Quad HD,60,2,1,13,5,128,Android,8999
+tecno,Tecno Pop 5 Pro,70,1,0,0,0,mediatek,4,2.0,3,32,0,6000,6.52,Quad HD,60,2,1,8,5,128,Android,6890
+tecno,Tecno Spark Go 2022,62,1,0,0,0,mediatek,4,2.2,2,32,0,5000,6.51,Quad HD,60,2,1,13,8,256,Android,7499
+tecno,Tecno POP 5 LTE,63,1,0,0,0,unisoc,8,1.6,2,32,0,5000,6.5,Quad HD,60,2,1,8,5,128,Android,6299
+tecno,Tecno Camon 18,75,1,0,1,0,mediatek,8,2.0,4,128,1,5000,6.8,Ultra HD,90,3,1,48,16,0,Android,11990
+xiaomi,Xiaomi Redmi Note 10 Lite (4GB RAM + 128GB),77,1,0,0,1,snapdragon,8,2.3,4,128,1,5020,6.67,Ultra HD,60,4,1,48,16,512,Android,12990
+poco,POCO C31,65,1,0,0,0,mediatek,8,2.3,3,32,0,5000,6.53,Quad HD,60,3,1,13,5,512,Android,8499
+xiaomi,Xiaomi Redmi 9i Sport,66,1,0,0,0,mediatek,8,2.0,4,64,1,5000,6.53,Quad HD,60,1,1,13,5,512,Android,9999
+xiaomi,Xiaomi Redmi 9A Sport,61,1,0,0,0,mediatek,8,2.0,2,32,0,5000,6.53,Quad HD,60,1,1,13,5,512,Android,6999
+xiaomi,Xiaomi Redmi 9A Sport (3GB RAM + 32GB),62,1,0,0,0,mediatek,8,2.0,3,32,0,5000,6.53,Quad HD,60,1,1,13,5,512,Android,7499
+tecno,Tecno Spark 8T,70,1,0,0,0,mediatek,8,2.3,4,64,0,5000,6.6,Quad HD,60,2,1,50,8,128,Android,8299
+samsung,Samsung Galaxy A12 Exynos 850 (6GB RAM + 128GB),74,1,0,0,0,exynos,8,2.0,6,128,0,5000,6.5,HD,60,4,1,48,8,1024,Android,14900
+nokia,Nokia C20 Plus (3GB RAM + 32GB),61,1,0,0,0,unisoc,8,1.6,3,32,0,4950,6.5,Quad HD,60,2,1,8,5,256,Android,8999
+infinix,Infinix Smart 5A,60,1,0,0,0,mediatek,4,1.8,2,32,0,5000,6.52,Quad HD,60,2,1,8,8,256,Android,7199
+ikall,iKall Z6,69,1,0,0,0,mediatek,4,1.6,4,64,0,4000,6.26,FWVGA,60,1,1,8,5,64,Android,6999
+ikall,iKall Z10,61,1,0,0,0,mediatek,4,1.6,4,64,0,4000,6.51,Quad HD,60,1,1,13,8,64,Android,7924
+infinix,Infinix Hot 11,67,1,0,0,0,mediatek,8,2.0,4,64,0,5200,6.6,Ultra HD,60,2,1,13,8,256,Android,9999
+realme,Realme C25s (4GB RAM + 128GB),69,1,0,0,0,mediatek,8,2.0,4,128,1,6000,6.5,Quad HD,60,3,1,13,8,256,Android,9999
+realme,Realme C21Y,62,1,0,0,0,unisoc,8,1.8,3,32,0,5000,6.5,Quad HD,60,3,1,13,5,256,Android,9499
+nokia,Nokia C20 Plus,62,1,0,0,0,unisoc,8,1.6,2,32,0,4950,6.5,Quad HD,60,2,1,8,5,256,Android,7999
+poco,POCO M2 Reloaded,71,1,0,0,1,mediatek,8,2.0,4,64,1,5000,6.53,Ultra HD,60,4,1,13,8,512,Android,10990
+realme,Realme C21 (4GB RAM + 64GB),65,1,0,0,0,mediatek,8,2.3,4,64,0,5000,6.5,HD,60,3,1,13,5,256,Android,9999
+nokia,Nokia G20,73,1,0,0,0,mediatek,8,2.3,4,64,0,5050,6.52,Quad HD,60,4,1,48,8,512,Android,12999
+realme,Realme C25,65,1,0,0,0,mediatek,8,2.0,4,64,1,6000,6.5,HD,60,3,1,13,8,256,Android,9999
+nokia,Nokia 5.4 (6GB RAM + 64GB),73,1,0,0,0,snapdragon,8,2.0,6,64,0,4000,6.39,HD,60,4,1,48,16,512,Android,12699
+lava,Lava Z2,61,1,0,0,0,mediatek,8,2.3,2,32,0,5000,6.51,Quad HD,60,2,1,13,8,512,Android,6190
+oppo,Oppo A15s,70,1,0,0,0,mediatek,8,2.3,4,64,0,4230,6.52,Quad HD,60,3,1,13,8,256,Android,12990
+samsung,Samsung Galaxy M02s,65,1,0,0,0,snapdragon,8,1.8,3,32,1,5000,6.5,Quad HD,60,3,1,13,5,1024,Android,9499
+nokia,Nokia 5.4,70,1,0,0,0,snapdragon,8,2.0,4,64,0,4000,6.39,HD,60,4,1,48,16,512,Android,11399
+samsung,Samsung Galaxy M02,62,1,0,0,0,mediatek,4,1.5,2,32,0,5000,6.5,Quad HD,60,2,1,13,5,1024,Android,8999
+poco,Poco M2 (6GB RAM + 128GB),75,1,0,0,1,mediatek,8,2.0,6,128,1,5000,6.53,Ultra HD,60,4,1,13,8,512,Android,13999
+xiaomi,Xiaomi Redmi 9A (3GB RAM + 32GB),62,1,0,0,0,mediatek,8,2.0,3,32,0,5000,6.53,Quad HD,60,1,1,13,5,512,Android,8399
+xiaomi,Xiaomi Redmi 9 Prime (4GB RAM + 128GB),74,1,0,0,1,mediatek,8,2.0,4,128,1,5020,6.53,Ultra HD,60,4,1,13,8,512,Android,11490
+xiaomi,Xiaomi Redmi 9 (4GB RAM + 128GB),70,1,0,0,0,mediatek,8,2.3,4,128,0,5000,6.53,Quad HD,60,2,1,13,5,512,Android,10990
+lava,Lava Z52 Pro,66,1,0,0,0,unisoc,8,1.6,2,16,0,4120,5.5,HD,60,1,1,8,5,128,Android,5199
+motorola,Motorola Moto G9,70,1,0,1,0,snapdragon,8,2.0,4,64,1,5000,6.5,HD,60,3,1,48,8,512,Android,11990
+vivo,Vivo Z1x (4GB RAM + 128GB),75,1,0,0,0,snapdragon,8,2.3,4,128,1,4500,6.38,Ultra HD,60,3,1,48,32,0,Android,17888
+realme,Realme X2 Pro,82,1,0,1,0,snapdragon,8,2.96,8,128,1,4000,6.5,Ultra HD,60,4,1,64,16,0,Android,22999
