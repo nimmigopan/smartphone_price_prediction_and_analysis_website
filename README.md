@@ -18,7 +18,7 @@ online shopping websites like Amazon, Flipkart, Samsung, Croma etc. In this proj
 - Finally, the code saves the DataFrame to a CSV file named 'scraped_data.csv'. This CSV file contains the scraped data in a structured format.
 - The result is a DataFrame with information about smartphones, including their model names, prices, ratings, and detailed specifications. This data is stored in a CSV file for further analysis or use.
    
-![image](https://github.com/nimmigopan/smartphone_price_prediction_and_analysis_website/assets/35449494/264fe640-40b1-4dda-86b2-053564d18e11)
+![uncleaned scrapped data](https://github.com/nimmigopan/smartphone_price_prediction_and_analysis_website/assets/35449494/119499b9-4b04-4f45-a333-0c8200ea1523)
 
 - model: The name or model of the smartphone.
 - price: The price of the smartphone in Indian Rupees (₹).
@@ -89,8 +89,7 @@ online shopping websites like Amazon, Flipkart, Samsung, Croma etc. In this proj
 - Various Univariate and Bivariate analysis are done that provides valuable insights into the relationships and distributions within the dataset.
 - The final dataset is saved to a new CSV file named 'final_data_for_modelling.csv'.
 
-  ![cleaned data](https://github.com/nimmigopan/smartphone_price_prediction_and_analysis_website/assets/35449494/fb2f90d3-c77e-479d-8b4f-bf3bae6ef50c)
-
+  ![cleaned data](https://github.com/nimmigopan/smartphone_price_prediction_and_analysis_website/assets/35449494/aa399b5f-6780-4b8b-8cfe-22955149d029)
 
 ## [4] Analytics Module
 - After data gathering, Cleaning and Preprocessing, now data is ready for modelling.
@@ -102,8 +101,9 @@ online shopping websites like Amazon, Flipkart, Samsung, Croma etc. In this proj
 - This visualization is providing insights into how various features are related to the price of mobile phones.
 
   some sample visualizations are shown below:
+  
+![overall analysis](https://github.com/nimmigopan/smartphone_price_prediction_and_analysis_website/assets/35449494/f952bdf9-6a8c-4355-ae50-4ba9f846f7de)
 
-![Screenshot 2023-11-02 223024](https://github.com/nimmigopan/smartphone_price_prediction_and_analysis_website/assets/35449494/71faf714-9ac0-4d2e-b685-7d7dc27a0ad5)
 
 ## [5] ML Model Selection
 **Model Selection.ipynb"**
@@ -127,6 +127,9 @@ online shopping websites like Amazon, Flipkart, Samsung, Croma etc. In this proj
 - Built a Streamlit application for price prediction based on various mobile phone specifications.
 - If You fill input fields for different phone specifications, and upon clicking the "predict" button, by using the trained model, the phone's price is estimated.
 - The application allows users to input various phone specifications, such as brand, dual SIM, 5G support, NFC support, IR blaster, processor brand, number of cores, processor speed, RAM, ROM, fast charging availability, battery capacity, screen size, screen resolution, refresh rate, number of rear and front cameras, primary camera pixels, memory extended up to, and operating system. After inputting these details, users can click the "predict" button to receive a predicted price for the specified phone.
-  ![price prediction module](https://github.com/nimmigopan/smartphone_price_prediction_and_analysis_website/assets/35449494/c6fd8057-2398-461b-80ab-37949345b25c)
+
+
+![price prediction module](https://github.com/nimmigopan/smartphone_price_prediction_and_analysis_website/assets/35449494/3bd74d9a-44c7-4474-9dff-8bbf4b7324c8)
+
 
 
